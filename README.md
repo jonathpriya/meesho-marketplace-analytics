@@ -336,29 +336,16 @@ Meesho-Marketplace-Analytics/
 
 ### Executive Dashboard
 
-Place the screenshot at:
+<img width="873" height="496" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/bc56f150-4177-4f89-a2ea-a580901435d2" />
 
-```text
-Screenshots/Dashboard_Overview.png
-```
 
 ### Return Intelligence
+<img width="875" height="492" alt="Return Intelligence" src="https://github.com/user-attachments/assets/c577c464-1441-4927-89d5-71e1aa224da0" />
 
-Place the screenshot at:
-
-```text
-Screenshots/Return_Intelligence.png
-```
 
 ### Performance & Risk Score
+<img width="877" height="492" alt="Performance and Risk" src="https://github.com/user-attachments/assets/35e1780e-b0c2-487b-ad73-8e34b65f7ef1" />
 
-Place the screenshot at:
-
-```text
-Screenshots/Performance_Risk_Score.png
-```
-
----
 
 ## How to Run the Project
 
