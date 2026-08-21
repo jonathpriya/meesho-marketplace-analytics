@@ -1,0 +1,301 @@
+seller_id,seller_name,city,state,seller_rating,seller_since
+S0001,Style Bazaar,Trichy,Tamil Nadu,4.27,2022-05-15
+S0002,Urban Bazaar,Ahmedabad,Gujarat,3.92,2022-01-05
+S0003,Smart Bazaar,Kochi,Kerala,4.36,2025-06-18
+S0004,Mega Enterprises,Visakhapatnam,Andhra Pradesh,4.84,2024-07-28
+S0005,Trend Mart,Jaipur,Rajasthan,3.87,2025-11-01
+S0006,Value Enterprises,Mysuru,Karnataka,3.87,2022-10-14
+S0007,Urban Store,Hyderabad,Telangana,4.87,2022-10-30
+S0008,Trend World,Mysuru,Karnataka,4.42,2024-09-15
+S0009,Royal Collections,Pune,Maharashtra,3.74,2022-02-09
+S0010,Urban Traders,Mumbai,Maharashtra,4.3,2023-07-07
+S0011,Smart Mart,Pune,Maharashtra,3.75,2024-04-25
+S0012,Fresh Fashion,Bengaluru,Karnataka,3.74,2024-12-02
+S0013,Prime Mart,Lucknow,Uttar Pradesh,4.13,2024-08-26
+S0014,Royal Collections,Madurai,Tamil Nadu,2.95,2025-08-03
+S0015,Smart Fashion,Mysuru,Karnataka,3.05,2024-01-24
+S0016,Daily Mart,Coimbatore,Tamil Nadu,3.69,2023-08-17
+S0017,Style Fashion,Lucknow,Uttar Pradesh,3.44,2025-09-30
+S0018,Royal Store,Patna,Bihar,4.17,2024-09-11
+S0019,Royal Enterprises,Indore,Madhya Pradesh,3.5,2025-01-19
+S0020,Style Store,Pune,Maharashtra,3.22,2025-06-18
+S0021,Mega Collections,Visakhapatnam,Andhra Pradesh,4.81,2025-01-30
+S0022,Urban Hub,Pune,Maharashtra,3.88,2026-07-31
+S0023,Fresh Traders,Ahmedabad,Gujarat,4.04,2022-11-06
+S0024,Royal Collections,Patna,Bihar,3.22,2025-06-03
+S0025,Smart Enterprises,Indore,Madhya Pradesh,3.7,2024-07-31
+S0026,Prime Collections,Bhopal,Madhya Pradesh,4.06,2023-01-16
+S0027,Daily Mart,Bengaluru,Karnataka,3.37,2023-01-05
+S0028,Daily Hub,Bhubaneswar,Odisha,4.21,2023-12-06
+S0029,Fresh Fashion,Kolkata,West Bengal,3.67,2024-11-24
+S0030,Fresh Collections,Pune,Maharashtra,3.84,2026-01-04
+S0031,Royal Traders,Mumbai,Maharashtra,3.67,2024-05-05
+S0032,Royal Store,Hyderabad,Telangana,5.0,2025-02-20
+S0033,Prime Collections,Mysuru,Karnataka,3.99,2021-12-26
+S0034,Prime Mart,Madurai,Tamil Nadu,3.42,2021-12-12
+S0035,Fresh Bazaar,Trichy,Tamil Nadu,4.45,2024-04-24
+S0036,Urban Traders,Bhopal,Madhya Pradesh,3.33,2022-02-07
+S0037,Fresh Hub,Ahmedabad,Gujarat,4.11,2022-09-08
+S0038,Urban Store,Visakhapatnam,Andhra Pradesh,2.92,2024-01-17
+S0039,Urban Bazaar,Lucknow,Uttar Pradesh,3.27,2022-07-06
+S0040,Urban Traders,Delhi,Delhi,4.11,2024-11-29
+S0041,Smart Enterprises,Visakhapatnam,Andhra Pradesh,4.41,2022-08-01
+S0042,Mega Fashion,Trichy,Tamil Nadu,4.09,2024-09-04
+S0043,Smart Enterprises,Ahmedabad,Gujarat,3.94,2024-11-24
+S0044,Royal Store,Trichy,Tamil Nadu,3.83,2025-08-31
+S0045,Smart Collections,Mysuru,Karnataka,3.19,2026-03-27
+S0046,Style Fashion,Indore,Madhya Pradesh,3.6,2022-02-23
+S0047,Trend World,Mumbai,Maharashtra,3.75,2022-10-21
+S0048,Smart Collections,Lucknow,Uttar Pradesh,4.58,2022-10-06
+S0049,Daily Fashion,Chennai,Tamil Nadu,4.19,2023-01-06
+S0050,Smart Store,Bengaluru,Karnataka,3.03,2024-06-12
+S0051,Smart Hub,Kolkata,West Bengal,4.18,2025-08-23
+S0052,Value Hub,Jaipur,Rajasthan,3.79,2024-04-30
+S0053,Trend Mart,Hyderabad,Telangana,3.63,2025-12-22
+S0054,Trend Traders,Patna,Bihar,4.34,2022-02-22
+S0055,Value Fashion,Delhi,Delhi,4.57,2025-08-15
+S0056,Urban Fashion,Lucknow,Uttar Pradesh,4.51,2024-12-12
+S0057,Fresh Bazaar,Bhopal,Madhya Pradesh,3.54,2025-03-24
+S0058,Mega Enterprises,Bhopal,Madhya Pradesh,3.83,2026-08-01
+S0059,Value Bazaar,Chennai,Tamil Nadu,4.18,2022-03-01
+S0060,Smart Mart,Chennai,Tamil Nadu,4.54,2024-07-13
+S0061,Mega Hub,Ahmedabad,Gujarat,3.74,2024-02-15
+S0062,Daily Store,Bhopal,Madhya Pradesh,3.9,2024-10-01
+S0063,Daily Traders,Visakhapatnam,Andhra Pradesh,3.39,2022-07-09
+S0064,Royal Fashion,Lucknow,Uttar Pradesh,3.34,2024-01-25
+S0065,Smart Hub,Visakhapatnam,Andhra Pradesh,4.45,2022-07-09
+S0066,Trend Collections,Kochi,Kerala,4.75,2022-09-19
+S0067,Daily Hub,Visakhapatnam,Andhra Pradesh,3.96,2022-09-29
+S0068,Value Collections,Mumbai,Maharashtra,4.55,2022-07-30
+S0069,Royal Bazaar,Lucknow,Uttar Pradesh,4.2,2023-05-24
+S0070,Smart Collections,Jaipur,Rajasthan,3.65,2022-06-12
+S0071,Mega Collections,Ahmedabad,Gujarat,4.2,2026-08-05
+S0072,Style Store,Chennai,Tamil Nadu,4.85,2025-05-16
+S0073,Daily World,Kolkata,West Bengal,3.98,2024-03-23
+S0074,Smart Collections,Madurai,Tamil Nadu,4.86,2025-05-29
+S0075,Daily Collections,Chennai,Tamil Nadu,2.56,2023-02-27
+S0076,Mega Fashion,Bengaluru,Karnataka,4.45,2025-11-02
+S0077,Prime Enterprises,Trichy,Tamil Nadu,4.05,2023-02-16
+S0078,Trend Mart,Kochi,Kerala,3.84,2023-12-28
+S0079,Mega Enterprises,Bengaluru,Karnataka,4.05,2024-06-18
+S0080,Mega Hub,Jaipur,Rajasthan,2.91,2023-06-07
+S0081,Style Traders,Mumbai,Maharashtra,3.88,2024-05-11
+S0082,Smart Hub,Lucknow,Uttar Pradesh,4.2,2023-06-24
+S0083,Mega Fashion,Mysuru,Karnataka,4.81,2023-10-27
+S0084,Urban Hub,Mysuru,Karnataka,3.71,2025-10-09
+S0085,Prime Enterprises,Kolkata,West Bengal,3.56,2025-03-30
+S0086,Mega World,Pune,Maharashtra,3.72,2022-03-15
+S0087,Fresh Enterprises,Chennai,Tamil Nadu,4.5,2026-04-04
+S0088,Trend Traders,Trichy,Tamil Nadu,4.18,2026-06-18
+S0089,Trend World,Trichy,Tamil Nadu,3.71,2023-11-15
+S0090,Urban Fashion,Coimbatore,Tamil Nadu,4.28,2024-03-24
+S0091,Fresh Traders,Bhubaneswar,Odisha,4.05,2025-09-22
+S0092,Prime Store,Mysuru,Karnataka,4.53,2024-07-14
+S0093,Smart Store,Mysuru,Karnataka,3.61,2024-07-16
+S0094,Prime Enterprises,Mysuru,Karnataka,3.82,2024-05-15
+S0095,Fresh Store,Delhi,Delhi,3.78,2024-05-21
+S0096,Fresh Collections,Ahmedabad,Gujarat,3.2,2022-09-12
+S0097,Fresh Hub,Kochi,Kerala,4.16,2023-06-18
+S0098,Royal Hub,Patna,Bihar,4.14,2022-09-27
+S0099,Urban Store,Delhi,Delhi,4.0,2026-03-14
+S0100,Prime World,Bhubaneswar,Odisha,3.87,2022-03-13
+S0101,Value World,Jaipur,Rajasthan,3.22,2026-06-07
+S0102,Urban Hub,Patna,Bihar,3.77,2022-02-16
+S0103,Value Collections,Delhi,Delhi,3.81,2025-03-01
+S0104,Urban Hub,Chennai,Tamil Nadu,3.56,2025-11-01
+S0105,Mega World,Mysuru,Karnataka,3.91,2023-09-26
+S0106,Royal World,Indore,Madhya Pradesh,4.22,2024-08-09
+S0107,Trend Enterprises,Indore,Madhya Pradesh,5.0,2026-07-31
+S0108,Daily Hub,Bhopal,Madhya Pradesh,4.1,2022-02-26
+S0109,Value Hub,Kolkata,West Bengal,4.14,2024-05-06
+S0110,Prime Hub,Delhi,Delhi,3.96,2023-09-20
+S0111,Trend Fashion,Bengaluru,Karnataka,2.94,2023-07-01
+S0112,Prime Collections,Mysuru,Karnataka,3.99,2023-07-10
+S0113,Smart Collections,Kochi,Kerala,4.03,2023-03-28
+S0114,Trend Collections,Madurai,Tamil Nadu,5.0,2021-12-19
+S0115,Value Store,Chennai,Tamil Nadu,3.89,2025-05-12
+S0116,Value Collections,Coimbatore,Tamil Nadu,4.17,2025-09-29
+S0117,Value World,Visakhapatnam,Andhra Pradesh,3.98,2022-07-16
+S0118,Prime Fashion,Hyderabad,Telangana,3.36,2021-12-22
+S0119,Fresh Store,Indore,Madhya Pradesh,4.63,2021-11-09
+S0120,Royal Bazaar,Madurai,Tamil Nadu,4.41,2024-07-12
+S0121,Style Fashion,Bengaluru,Karnataka,4.44,2022-12-03
+S0122,Fresh Store,Bhubaneswar,Odisha,3.5,2023-10-12
+S0123,Fresh Traders,Mysuru,Karnataka,4.77,2024-09-15
+S0124,Fresh Mart,Trichy,Tamil Nadu,3.23,2025-04-13
+S0125,Trend Hub,Coimbatore,Tamil Nadu,4.32,2025-01-15
+S0126,Style Mart,Kochi,Kerala,5.0,2022-02-14
+S0127,Urban Mart,Mysuru,Karnataka,3.46,2024-08-20
+S0128,Daily Traders,Chennai,Tamil Nadu,3.69,2022-01-16
+S0129,Fresh Enterprises,Mysuru,Karnataka,4.05,2025-09-03
+S0130,Fresh Hub,Hyderabad,Telangana,3.72,2025-12-28
+S0131,Prime Mart,Hyderabad,Telangana,3.15,2023-05-29
+S0132,Urban Enterprises,Jaipur,Rajasthan,4.04,2024-06-25
+S0133,Value Traders,Mysuru,Karnataka,3.42,2025-06-16
+S0134,Trend World,Bhopal,Madhya Pradesh,4.26,2021-08-27
+S0135,Daily World,Chennai,Tamil Nadu,3.49,2023-03-22
+S0136,Style Collections,Mysuru,Karnataka,4.85,2022-03-30
+S0137,Mega Mart,Bhubaneswar,Odisha,3.57,2023-04-17
+S0138,Royal Hub,Coimbatore,Tamil Nadu,3.82,2021-12-22
+S0139,Style Collections,Patna,Bihar,4.45,2025-09-09
+S0140,Style Traders,Lucknow,Uttar Pradesh,3.32,2024-11-21
+S0141,Smart World,Mumbai,Maharashtra,4.13,2024-04-18
+S0142,Fresh Hub,Hyderabad,Telangana,4.72,2025-09-01
+S0143,Trend Bazaar,Hyderabad,Telangana,3.12,2023-09-21
+S0144,Prime World,Kochi,Kerala,4.1,2022-03-20
+S0145,Prime World,Jaipur,Rajasthan,4.14,2022-02-08
+S0146,Smart Hub,Kolkata,West Bengal,4.43,2025-03-08
+S0147,Prime Traders,Lucknow,Uttar Pradesh,3.32,2025-11-14
+S0148,Fresh Fashion,Kochi,Kerala,3.27,2025-05-03
+S0149,Urban Store,Trichy,Tamil Nadu,4.29,2024-02-23
+S0150,Smart World,Hyderabad,Telangana,4.16,2024-11-03
+S0151,Trend Traders,Mysuru,Karnataka,4.14,2024-10-28
+S0152,Smart Store,Visakhapatnam,Andhra Pradesh,4.19,2022-10-11
+S0153,Fresh Traders,Patna,Bihar,3.63,2024-08-14
+S0154,Smart Bazaar,Ahmedabad,Gujarat,4.13,2024-07-01
+S0155,Prime World,Visakhapatnam,Andhra Pradesh,4.16,2023-08-04
+S0156,Daily Mart,Indore,Madhya Pradesh,3.61,2024-05-09
+S0157,Royal Bazaar,Kolkata,West Bengal,5.0,2024-03-04
+S0158,Prime Mart,Kolkata,West Bengal,4.26,2025-05-13
+S0159,Daily Collections,Kochi,Kerala,3.34,2023-01-11
+S0160,Fresh World,Chennai,Tamil Nadu,4.36,2022-09-19
+S0161,Value Traders,Trichy,Tamil Nadu,3.46,2024-02-14
+S0162,Mega Collections,Madurai,Tamil Nadu,4.43,2024-07-31
+S0163,Mega Bazaar,Lucknow,Uttar Pradesh,4.64,2023-05-30
+S0164,Prime Bazaar,Kochi,Kerala,3.55,2025-05-23
+S0165,Prime Enterprises,Bhopal,Madhya Pradesh,4.53,2023-05-26
+S0166,Style World,Bhubaneswar,Odisha,4.23,2024-11-10
+S0167,Fresh Fashion,Mumbai,Maharashtra,4.45,2021-10-21
+S0168,Royal Collections,Ahmedabad,Gujarat,5.0,2024-04-09
+S0169,Smart Hub,Chennai,Tamil Nadu,3.87,2023-03-03
+S0170,Daily Hub,Kolkata,West Bengal,3.59,2025-07-01
+S0171,Style Collections,Patna,Bihar,3.51,2022-09-19
+S0172,Daily Store,Visakhapatnam,Andhra Pradesh,3.55,2026-01-11
+S0173,Daily Bazaar,Bengaluru,Karnataka,3.96,2026-05-15
+S0174,Value World,Hyderabad,Telangana,4.19,2025-04-18
+S0175,Mega Collections,Bhubaneswar,Odisha,4.15,2025-10-18
+S0176,Daily Traders,Jaipur,Rajasthan,4.45,2025-10-02
+S0177,Value Hub,Visakhapatnam,Andhra Pradesh,4.01,2026-06-10
+S0178,Royal Fashion,Chennai,Tamil Nadu,4.8,2026-07-30
+S0179,Mega Mart,Bengaluru,Karnataka,3.85,2022-05-07
+S0180,Value Bazaar,Lucknow,Uttar Pradesh,5.0,2023-05-19
+S0181,Mega Hub,Bengaluru,Karnataka,4.34,2021-11-03
+S0182,Mega Fashion,Kochi,Kerala,3.53,2022-01-17
+S0183,Royal Hub,Madurai,Tamil Nadu,3.41,2025-10-25
+S0184,Urban World,Indore,Madhya Pradesh,4.27,2025-01-27
+S0185,Fresh Bazaar,Chennai,Tamil Nadu,3.88,2023-08-19
+S0186,Royal Fashion,Delhi,Delhi,4.39,2025-09-27
+S0187,Daily Fashion,Patna,Bihar,4.26,2022-04-26
+S0188,Value Store,Kolkata,West Bengal,3.96,2025-03-25
+S0189,Trend World,Bhopal,Madhya Pradesh,3.53,2022-03-02
+S0190,Prime Hub,Delhi,Delhi,3.17,2023-04-11
+S0191,Trend Fashion,Lucknow,Uttar Pradesh,3.75,2024-04-14
+S0192,Fresh Enterprises,Lucknow,Uttar Pradesh,4.47,2026-01-06
+S0193,Style World,Hyderabad,Telangana,4.12,2022-05-13
+S0194,Prime Hub,Patna,Bihar,3.31,2024-05-02
+S0195,Mega World,Delhi,Delhi,4.1,2024-05-04
+S0196,Value Fashion,Chennai,Tamil Nadu,4.21,2023-03-29
+S0197,Urban Collections,Jaipur,Rajasthan,3.51,2025-02-19
+S0198,Style Mart,Bhopal,Madhya Pradesh,4.08,2025-11-21
+S0199,Smart Store,Jaipur,Rajasthan,4.03,2024-01-12
+S0200,Smart Hub,Coimbatore,Tamil Nadu,3.37,2026-08-05
+S0201,Royal Mart,Bengaluru,Karnataka,4.2,2024-09-26
+S0202,Style Fashion,Kolkata,West Bengal,4.31,2024-05-21
+S0203,Mega Mart,Patna,Bihar,4.6,2023-05-11
+S0204,Fresh Collections,Chennai,Tamil Nadu,4.58,2025-10-29
+S0205,Fresh Fashion,Pune,Maharashtra,3.24,2026-02-08
+S0206,Fresh Store,Ahmedabad,Gujarat,3.48,2023-05-25
+S0207,Urban World,Mumbai,Maharashtra,4.28,2026-02-17
+S0208,Mega World,Patna,Bihar,4.28,2026-04-07
+S0209,Urban Enterprises,Hyderabad,Telangana,4.28,2026-06-19
+S0210,Value World,Indore,Madhya Pradesh,5.0,2025-11-15
+S0211,Trend Bazaar,Patna,Bihar,4.31,2025-03-22
+S0212,Prime World,Pune,Maharashtra,4.62,2026-03-11
+S0213,Style Traders,Ahmedabad,Gujarat,4.52,2024-12-01
+S0214,Smart Bazaar,Chennai,Tamil Nadu,4.36,2026-01-07
+S0215,Urban Mart,Ahmedabad,Gujarat,3.83,2023-02-20
+S0216,Trend Mart,Chennai,Tamil Nadu,4.42,2022-05-14
+S0217,Style Hub,Ahmedabad,Gujarat,3.57,2022-12-07
+S0218,Mega Enterprises,Trichy,Tamil Nadu,3.87,2022-02-09
+S0219,Urban Enterprises,Hyderabad,Telangana,3.73,2022-09-28
+S0220,Value Store,Kolkata,West Bengal,4.05,2023-10-29
+S0221,Value Traders,Patna,Bihar,5.0,2023-11-18
+S0222,Fresh Fashion,Lucknow,Uttar Pradesh,2.97,2023-12-14
+S0223,Royal Mart,Kochi,Kerala,4.38,2022-08-08
+S0224,Royal Mart,Bhopal,Madhya Pradesh,3.11,2025-12-04
+S0225,Fresh Bazaar,Trichy,Tamil Nadu,3.74,2023-12-12
+S0226,Style Mart,Mysuru,Karnataka,4.6,2025-12-23
+S0227,Prime Traders,Chennai,Tamil Nadu,4.04,2023-02-25
+S0228,Daily Store,Kochi,Kerala,3.41,2022-10-11
+S0229,Trend Fashion,Coimbatore,Tamil Nadu,3.61,2025-02-19
+S0230,Value Fashion,Delhi,Delhi,4.37,2022-12-03
+S0231,Mega Mart,Bengaluru,Karnataka,3.6,2021-08-12
+S0232,Royal Fashion,Kolkata,West Bengal,4.12,2025-08-13
+S0233,Style World,Jaipur,Rajasthan,4.03,2024-02-15
+S0234,Daily Collections,Kolkata,West Bengal,3.64,2026-02-17
+S0235,Urban Hub,Delhi,Delhi,5.0,2025-10-06
+S0236,Smart Store,Bengaluru,Karnataka,4.35,2023-04-13
+S0237,Daily Hub,Jaipur,Rajasthan,2.89,2025-05-24
+S0238,Smart Enterprises,Indore,Madhya Pradesh,4.1,2022-11-24
+S0239,Smart Collections,Kochi,Kerala,3.64,2021-12-23
+S0240,Prime Mart,Mysuru,Karnataka,4.47,2023-10-04
+S0241,Trend Traders,Jaipur,Rajasthan,3.56,2021-12-16
+S0242,Royal Mart,Delhi,Delhi,3.94,2025-08-25
+S0243,Royal Fashion,Pune,Maharashtra,4.28,2023-07-15
+S0244,Style Fashion,Indore,Madhya Pradesh,4.48,2024-05-24
+S0245,Value Enterprises,Patna,Bihar,3.34,2025-06-05
+S0246,Mega Traders,Ahmedabad,Gujarat,3.82,2023-10-25
+S0247,Style Enterprises,Visakhapatnam,Andhra Pradesh,3.74,2024-08-29
+S0248,Prime Traders,Mysuru,Karnataka,3.64,2026-07-21
+S0249,Trend Enterprises,Patna,Bihar,4.97,2025-07-30
+S0250,Royal Store,Chennai,Tamil Nadu,4.22,2023-06-14
+S0251,Value Enterprises,Bengaluru,Karnataka,3.31,2023-01-16
+S0252,Trend Store,Ahmedabad,Gujarat,4.5,2025-02-14
+S0253,Mega Mart,Mysuru,Karnataka,5.0,2025-01-25
+S0254,Trend Hub,Chennai,Tamil Nadu,4.57,2023-11-05
+S0255,Smart Store,Bengaluru,Karnataka,3.16,2025-03-25
+S0256,Royal Traders,Madurai,Tamil Nadu,3.73,2023-08-25
+S0257,Royal Bazaar,Bengaluru,Karnataka,4.7,2026-06-03
+S0258,Style Fashion,Mysuru,Karnataka,3.61,2021-12-28
+S0259,Fresh Traders,Patna,Bihar,4.24,2024-08-21
+S0260,Daily World,Visakhapatnam,Andhra Pradesh,4.43,2025-07-19
+S0261,Daily World,Jaipur,Rajasthan,3.49,2024-03-19
+S0262,Smart Collections,Jaipur,Rajasthan,3.97,2022-07-11
+S0263,Value Collections,Bhubaneswar,Odisha,2.22,2026-03-04
+S0264,Smart Enterprises,Ahmedabad,Gujarat,3.44,2026-06-04
+S0265,Style Store,Trichy,Tamil Nadu,3.86,2026-05-17
+S0266,Daily Bazaar,Bhopal,Madhya Pradesh,3.31,2025-04-09
+S0267,Mega Store,Ahmedabad,Gujarat,4.9,2026-03-14
+S0268,Prime Mart,Lucknow,Uttar Pradesh,3.21,2023-04-23
+S0269,Urban World,Jaipur,Rajasthan,3.76,2025-12-06
+S0270,Daily Fashion,Coimbatore,Tamil Nadu,4.07,2025-07-16
+S0271,Prime Fashion,Visakhapatnam,Andhra Pradesh,4.79,2024-10-22
+S0272,Royal Fashion,Lucknow,Uttar Pradesh,3.21,2023-06-20
+S0273,Royal Traders,Pune,Maharashtra,4.64,2022-10-16
+S0274,Trend Enterprises,Ahmedabad,Gujarat,4.01,2024-05-30
+S0275,Value Bazaar,Bengaluru,Karnataka,3.46,2022-03-12
+S0276,Value Store,Bhopal,Madhya Pradesh,4.25,2023-03-28
+S0277,Prime Enterprises,Lucknow,Uttar Pradesh,4.11,2024-06-13
+S0278,Value Bazaar,Bhubaneswar,Odisha,3.67,2026-04-02
+S0279,Value Fashion,Hyderabad,Telangana,4.04,2023-11-16
+S0280,Trend Mart,Visakhapatnam,Andhra Pradesh,3.79,2023-10-12
+S0281,Trend Bazaar,Jaipur,Rajasthan,4.06,2024-09-28
+S0282,Fresh Mart,Bhopal,Madhya Pradesh,4.36,2021-11-16
+S0283,Trend Store,Mumbai,Maharashtra,4.87,2024-12-16
+S0284,Trend Hub,Bhopal,Madhya Pradesh,3.32,2023-06-13
+S0285,Prime Traders,Madurai,Tamil Nadu,5.0,2023-10-13
+S0286,Fresh Collections,Mumbai,Maharashtra,2.93,2025-08-27
+S0287,Urban World,Kochi,Kerala,3.92,2025-05-12
+S0288,Fresh World,Indore,Madhya Pradesh,4.32,2025-08-20
+S0289,Fresh Store,Mysuru,Karnataka,4.15,2023-05-31
+S0290,Smart Bazaar,Ahmedabad,Gujarat,3.66,2023-07-24
+S0291,Royal Traders,Patna,Bihar,3.89,2023-02-24
+S0292,Value World,Chennai,Tamil Nadu,3.73,2022-06-14
+S0293,Smart Enterprises,Kochi,Kerala,3.68,2024-07-31
+S0294,Daily Collections,Madurai,Tamil Nadu,4.47,2022-10-13
+S0295,Royal Fashion,Trichy,Tamil Nadu,4.2,2023-02-17
+S0296,Daily Traders,Kochi,Kerala,3.62,2025-04-25
+S0297,Trend Bazaar,Jaipur,Rajasthan,4.49,2022-04-14
+S0298,Urban Store,Bhopal,Madhya Pradesh,4.17,2022-11-09
+S0299,Mega Store,Bhopal,Madhya Pradesh,4.45,2024-11-29
+S0300,Style Bazaar,Ahmedabad,Gujarat,4.35,2025-07-11

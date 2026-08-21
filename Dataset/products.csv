@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,brand,seller_id,cost_price,selling_price
+P00001,Printed T-Shirt,Men Fashion,Jeans,TechNova,S0246,1254.58,1861
+P00002,Microfiber Cleaning Set,Home & Kitchen,Cookware,NovaCart,S0034,1273.81,1827
+P00003,Regular Fit Jeans,Men Fashion,T-Shirts,NovaCart,S0295,597.95,858
+P00004,Decorative Wall Clock,Home & Kitchen,Cleaning,DailyEase,S0295,899.37,1597
+P00005,Printed Cotton Kurti,Women Fashion,Kurtis,StyleMint,S0284,270.49,396
+P00006,Microfiber Cleaning Set,Home & Kitchen,Cookware,UrbanWeave,S0120,183.0,268
+P00007,Matte Liquid Lipstick,Beauty,Skincare,UrbanWeave,S0210,908.85,1591
+P00008,Wireless Mouse,Electronics,Smart Devices,NovaCart,S0200,1170.86,1643
+P00009,Smart LED Bulb,Electronics,Smart Devices,Trendora,S0225,2782.14,3999
+P00010,Bluetooth Speaker,Electronics,Smart Devices,StyleMint,S0293,2083.81,2940
+P00011,Smart LED Bulb,Electronics,Mobile Accessories,Trendora,S0027,881.59,1159
+P00012,Regular Fit Jeans,Men Fashion,Shirts,DailyEase,S0276,1790.71,2690
+P00013,Georgette Saree,Women Fashion ,Sarees,UrbanNest,S0232,1620.29,2365
+P00014,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,StyleMint,S0135,1758.24,2577
+P00015,Cotton Leggings,Women Fashion,Tops,GlowNest,S0082,684.59,1043
+P00016,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,Vistara Living,S0016,691.3,945
+P00017,Bluetooth Speaker,Electronics,Smart Devices,DailyEase,S0042,2685.49,4642
+P00018,Regular Fit Jeans,Men Fashion,Kurtas,DailyEase,S0173,1427.72,2505
+P00019,Long Summer Dress,Women Fashion,Kurtis,TechNova,S0228,668.86,882
+P00020,Wireless Mouse,Electronics,Audio,HomeAura,S0218,1663.42,2834
+P00021,Fast Charging Cable,Electronics,Mobile Accessories,PrimeChoice,S0161,1894.5,3310
+P00022,Mobile Phone Stand,Electronics,Audio,UrbanWeave,S0007,3204.65,4055
+P00023,Vitamin C Face Serum,Beauty,Skincare,UrbanNest,S0063,990.47,1527
+P00024,Smart LED Bulb,Electronics,Mobile Accessories,Trendora,S0273,498.45,902
+P00025,Wireless Mouse,Electronics,Computer Accessories,StyleMint,S0162,960.63,1350
+P00026,Long Summer Dress,Women Fashion,Sarees,PrimeChoice,S0031,1090.86,1946
+P00027,Smart LED Bulb,Electronics,Smart Devices,Zenvia,S0063,821.95,1076
+P00028,Matte Liquid Lipstick,Beauty,Haircare,PrimeChoice,S0109,1138.04,1949
+P00029,Cotton Cushion Cover Set,Home & Kitchen,Cookware,TechNova,S0272,375.8,484
+P00030,Regular Fit Jeans,Men Fashion,Trousers,Vistara Living,S0041,678.29,871
+P00031,Hair Repair Oil,Beauty,Personal Care,DailyEase,S0124,392.06,651
+P00032,Long Summer Dress,Women Fashion,Kurtis,UrbanNest,S0221,1074.49,1566
+P00033,Herbal Shampoo,Beauty,Haircare,HomeAura,S0172,924.71,1512
+P00034,Microfiber Cleaning Set,Home & Kitchen,Cookware,StyleMint,S0183,1518.99,2195
+P00035,Embroidered Saree,Women Fashion,Kurtis,UrbanWeave,S0022,848.18,1387
+P00036,Slim Fit Cotton Shirt,Men Fashion,Kurtas,Zenvia,S0234,1497.53,2230
+P00037,Cotton Trousers,Men Fashion,Kurtas,HomeAura,S0194,1619.16,2026
+P00038,Floral Anarkali Kurti,Women Fashion,Tops,HomeAura,S0043,836.14,1407
+P00039,Matte Liquid Lipstick,Beauty,Haircare,UrbanNest,S0212,1323.13,1822
+P00040,Casual Women's Top,Women Fashion,Kurtis,UrbanWeave,S0166,1650.53,2090
+P00041,Cotton Trousers,Men Fashion,Jeans,NovaCart,S0210,2260.53,2899
+P00042,Printed Cotton Kurti,Women Fashion,Tops,GlowNest,S0287,210.22,352
+P00043,Embroidered Saree,Women Fashion,Sarees,TechNova,S0074,593.47,1075
+P00044,Cotton Cushion Cover Set,Home & Kitchen,Cookware,UrbanNest,S0261,586.77,749
+P00045,Face Wash,Beauty,Haircare,DailyEase,S0271,466.32,703
+P00046,Printed T-Shirt,Men Fashion,Kurtas,HomeAura,S0295,909.83,1164
+P00047,Bluetooth Speaker,Electronics,Audio,DailyEase,S0002,2801.2,4306
+P00048,Cotton Trousers,Men Fashion,T-Shirts,DailyEase,S0143,1849.24,2496
+P00049,Wireless Mouse,Electronics,Computer Accessories,UrbanNest,S0180,2119.04,2869
+P00050,Cotton Trousers,Men Fashion,Jeans,UrbanNest,S0252,1259.57,2157
+P00051,Non Stick Cookware Set,Home & Kitchen,Home Decor,GlowNest,S0218,203.19,286
+P00052,Wireless Bluetooth Earbuds,Electronics,Audio,PrimeChoice,S0139,2577.19,3392
+P00053,Georgette Saree,Women Fashion,Sarees,UrbanNest,S0268,733.94,1052
+P00054,Fast Charging Cable,Electronics,Computer Accessories,GlowNest,S0184,3164.49,4741
+P00055,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,TechNova,S0244,1214.66,1956
+P00056,Printed Cotton Kurti,Women Fashion,Tops,DailyEase,S0007,839.5,1151
+P00057,Floral Anarkali Kurti,Women Fashion,Tops,Zenvia,S0215,1738.38,2298
+P00058,Slim Fit Cotton Shirt,Men Fashion,Kurtas,Trendora,S0136,1119.96,1920
+P00059,Printed Cotton Kurti,Women Fashion,Tops,UrbanNest,S0120,685.97,896
+P00060,Mobile Phone Stand,Electronics,Audio,Zenvia,S0069,2097.64,3166
+P00061,Matte Liquid Lipstick,Beauty,Haircare,PrimeChoice,S0254,106.62,189
+P00062,Wireless Bluetooth Earbuds,Electronics,Smart Devices,StyleMint,S0139,2944.6,4877
+P00063,Men's Casual Kurta,Men Fashion,Kurtas,PrimeChoice,S0248,342.88,607
+P00064,Wireless Bluetooth Earbuds,Electronics,Smart Devices,GlowNest,S0142,839.22,1432
+P00065,Microfiber Cleaning Set,Home & Kitchen,Kitchen Storage,NovaCart,S0200,1660.97,2484
+P00066,Fast Charging Cable,Electronics,Computer Accessories,TechNova,S0041,1040.14,1750
+P00067,Vitamin C Face Serum,Beauty,Skincare,Trendora,S0110,410.69,742
+P00068,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,Zenvia,S0027,1804.95,2384
+P00069,Regular Fit Jeans,Men Fashion,Jeans,Vistara Living,S0196,1613.18,2452
+P00070,Printed Cotton Kurti,Women Fashion,Dresses,PrimeChoice,S0230,556.1,810
+P00071,Slim Fit Cotton Shirt,Men Fashion,Shirts,Vistara Living,S0172,246.61,442
+P00072,Stainless Steel Bottle,Home & Kitchen,Cleaning,Vistara Living,S0185,427.91,754
+P00073,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,Zenvia,S0161,1057.28,1587
+P00074,Embroidered Saree,Women Fashion,Kurtis,Zenvia,S0289,698.05,1195
+P00075,Floral Anarkali Kurti,Women Fashion,Dresses,UrbanWeave,S0018,1195.68,2089
+P00076,Non Stick Cookware Set,Home & Kitchen,Cookware,HomeAura,S0277,335.98,582
+P00077,Mobile Phone Stand,Electronics ,Audio,UrbanWeave,S0039,2953.91,4421
+P00078,Non Stick Cookware Set,Home & Kitchen,Cleaning,StyleMint,S0130,556.21,959
+P00079,Matte Liquid Lipstick,Beauty,Personal Care,GlowNest,S0086,672.49,1164
+P00080,Cotton Leggings,Women Fashion,Dresses,Vistara Living,S0157,148.67,224
+P00081,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,Trendora,S0151,830.16,1122
+P00082,Slim Fit Cotton Shirt,Men Fashion,Jeans,Trendora,S0008,483.44,679
+P00083,Vitamin C Face Serum,Beauty,Skincare,Trendora,S0043,834.82,1352
+P00084,Georgette Saree,Women Fashion,Leggings,TechNova,S0229,1064.97,1448
+P00085,Cotton Trousers,Men Fashion,Trousers,HomeAura,S0094,235.41,391
+P00086,Matte Liquid Lipstick,Beauty,Haircare,HomeAura,S0241,475.47,609
+P00087,Casual Women's Top,Women Fashion,Dresses,UrbanWeave,S0013,1042.51,1428
+P00088,Printed T-Shirt,Men Fashion,Jeans,UrbanNest,S0180,1231.38,1769
+P00089,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,StyleMint,S0057,364.4,632
+P00090,Fast Charging Cable,Electronics,Audio,PrimeChoice,S0208,2582.91,3770
+P00091,Moisturizing Face Cream,Beauty,Personal Care,UrbanWeave,S0264,777.88,1129
+P00092,Non Stick Cookware Set,Home & Kitchen ,Cookware,Zenvia,S0031,1352.23,2097
+P00093,Wireless Mouse,Electronics,Smart Devices,PrimeChoice,S0262,2450.21,3986
+P00094,Men's Casual Kurta,Men Fashion,Trousers,UrbanNest,S0290,2050.38,2582
+P00095,Bluetooth Speaker,Electronics,Audio,Trendora,S0291,1858.89,2637
+P00096,Georgette Saree,Women Fashion,Dresses,PrimeChoice,S0293,212.1,377
+P00097,Bluetooth Speaker,Electronics ,Mobile Accessories,Vistara Living,S0167,982.89,1296
+P00098,Hair Repair Oil,Beauty,Haircare,GlowNest,S0021,644.78,1044
+P00099,Slim Fit Cotton Shirt,Men Fashion,Shirts,StyleMint,S0211,2097.12,2650
+P00100,Vitamin C Face Serum,Beauty,Personal Care,Trendora,S0005,329.33,452
+P00101,Floral Anarkali Kurti,Women Fashion,Sarees,Zenvia,S0076,1596.13,2212
+P00102,Matte Liquid Lipstick,Beauty,Haircare,Zenvia,S0112,1172.76,1948
+P00103,Printed Cotton Kurti,Women Fashion,Kurtis,NovaCart,S0128,1661.99,2445
+P00104,Non Stick Cookware Set,Home & Kitchen,Cleaning,Zenvia,S0003,1519.63,2630
+P00105,Wireless Bluetooth Earbuds,Electronics,Audio,Zenvia,S0002,1341.61,2314
+P00106,Bluetooth Speaker,Electronics,Audio,Vistara Living,S0078,3616.65,4899
+P00107,Slim Fit Cotton Shirt,Men Fashion,Trousers,UrbanWeave,S0298,1595.39,2169
+P00108,Mobile Phone Stand,Electronics,Computer Accessories,PrimeChoice,S0278,397.94,615
+P00109,Hair Repair Oil,Beauty,Haircare,HomeAura,S0281,1476.22,1874
+P00110,Cotton Cushion Cover Set,Home & Kitchen,Home Decor,DailyEase,S0012,673.31,1202
+P00111,Mobile Phone Stand,Electronics,Smart Devices,UrbanNest,S0061,1251.46,2044
+P00112,Men's Casual Shirt,Men Fashion,Trousers,StyleMint,S0044,471.15,692
+P00113,Casual Women's Top,Women Fashion,Leggings,GlowNest,S0169,1238.04,1711
+P00114,Printed T-Shirt,Men Fashion,Kurtas,UrbanWeave,S0097,724.19,913
+P00115,Matte Liquid Lipstick,Beauty,Makeup,NovaCart,S0123,535.97,892
+P00116,Kitchen Storage Container Set,Home & Kitchen,Cleaning,DailyEase,S0295,1277.85,2027
+P00117,Wireless Mouse,Electronics,Smart Devices,TechNova,S0222,1905.33,2488
+P00118,Men's Casual Shirt,Men Fashion,Shirts,UrbanWeave,S0137,369.95,538
+P00119,Long Summer Dress,Women Fashion,Sarees,Trendora,S0260,1871.59,2407
+P00120,Cotton Trousers,Men Fashion,T-Shirts,Zenvia,S0148,1487.72,2128
+P00121,Slim Fit Cotton Shirt,Men Fashion,Trousers,UrbanNest,S0257,297.67,436
+P00122,Stainless Steel Bottle,Home & Kitchen,Home Decor,Vistara Living,S0240,1186.82,1529
+P00123,Herbal Shampoo,Beauty,Skincare,StyleMint,S0114,464.28,787
+P00124,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,GlowNest,S0049,803.38,1405
+P00125,Men's Casual Kurta,Men Fashion,Kurtas,UrbanWeave,S0060,956.33,1658
+P00126,Stainless Steel Bottle,Home & Kitchen,Kitchen Storage,StyleMint,S0168,688.34,922
+P00127,Wireless Mouse,Electronics,Audio,Zenvia,S0017,2028.01,3505
+P00128,Non Stick Cookware Set,Home & Kitchen,Cookware,Zenvia,S0210,261.85,425
+P00129,Floral Anarkali Kurti,Women Fashion,Kurtis,TechNova,S0074,1525.83,2499
+P00130,Printed Cotton Kurti,Women Fashion,Kurtis,DailyEase,S0066,550.92,918
+P00131,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,GlowNest,S0136,328.42,565
+P00132,Herbal Shampoo,Beauty,Makeup,Vistara Living,S0167,1087.91,1655
+P00133,Herbal Shampoo,Beauty,Haircare,UrbanWeave,S0157,917.49,1634
+P00134,Regular Fit Jeans,Men Fashion,T-Shirts,HomeAura,S0154,1605.74,2015
+P00135,Casual Women's Top,Women Fashion,Kurtis,StyleMint,S0004,353.97,559
+P00136,Stainless Steel Bottle,Home & Kitchen,Cookware,NovaCart,S0077,985.88,1465
+P00137,Cotton Trousers,Men Fashion,Jeans,GlowNest,S0210,1156.38,2026
+P00138,Printed T-Shirt,Men Fashion,T-Shirts,TechNova,S0065,526.48,714
+P00139,Regular Fit Jeans,Men Fashion,Trousers,PrimeChoice,S0215,212.69,314
+P00140,Stainless Steel Bottle,Home & Kitchen,Home Decor,NovaCart,S0067,1448.67,1838
+P00141,Embroidered Saree,Women Fashion,Leggings,GlowNest,S0227,1429.24,1873
+P00142,Herbal Shampoo,Beauty,Haircare,DailyEase,S0082,837.0,1105
+P00143,Georgette Saree,Women Fashion,Sarees,GlowNest,S0056,145.37,260
+P00144,Moisturizing Face Cream,Beauty,Personal Care,NovaCart,S0161,259.88,447
+P00145,Men's Casual Shirt,Men Fashion,Jeans,GlowNest,S0194,1138.97,1557
+P00146,Slim Fit Cotton Shirt,Men Fashion,Shirts,NovaCart,S0222,414.68,654
+P00147,Fast Charging Cable,Electronics,Smart Devices,Zenvia,S0089,1948.22,3172
+P00148,Decorative Wall Clock,Home & Kitchen,Home Decor,UrbanNest,S0064,2136.24,2831
+P00149,Fast Charging Cable,Electronics,Computer Accessories,Trendora,S0272,3250.32,4727
+P00150,Kitchen Storage Container Set,Home & Kitchen,Cookware,Vistara Living,S0158,1930.37,2937
+P00151,Hair Repair Oil,Beauty,Haircare,PrimeChoice,S0092,1485.27,1939
+P00152,Casual Women's Top,Women Fashion,Leggings,GlowNest,S0215,929.36,1334
+P00153,Embroidered Saree,Women Fashion,Dresses,StyleMint,S0010,967.38,1262
+P00154,Printed Cotton Kurti,Women Fashion,Kurtis,NovaCart,S0190,540.13,943
+P00155,Men's Casual Shirt,Men Fashion,Jeans,UrbanNest,S0016,649.71,1062
+P00156,Decorative Wall Clock,Home & Kitchen ,Kitchen Storage,HomeAura,S0271,1988.65,2702
+P00157,Embroidered Saree,Women Fashion,Sarees,HomeAura,S0259,449.17,781
+P00158,Floral Anarkali Kurti,Women Fashion,Kurtis,UrbanNest,S0104,490.39,867
+P00159,Smart LED Bulb,Electronics,Computer Accessories,Zenvia,S0142,372.81,654
+P00160,Georgette Saree,Women Fashion,Sarees,UrbanNest,S0124,1614.37,2143
+P00161,Microfiber Cleaning Set,Home & Kitchen,Kitchen Storage,HomeAura,S0285,1562.42,2110
+P00162,Long Summer Dress,Women Fashion,Kurtis,StyleMint,S0080,1378.6,1788
+P00163,Mobile Phone Stand,Electronics,Audio,UrbanWeave,S0298,2707.28,4405
+P00164,Hair Repair Oil,Beauty,Personal Care,UrbanWeave,S0005,630.34,822
+P00165,Floral Anarkali Kurti,Women Fashion,Kurtis,GlowNest,S0173,1264.65,1991
+P00166,Men's Casual Shirt,Men Fashion,Shirts,GlowNest,S0286,1743.99,2234
+P00167,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,PrimeChoice,S0029,567.57,762
+P00168,Men's Casual Shirt,Men Fashion,Trousers,GlowNest,S0015,1152.89,2000
+P00169,Smart LED Bulb,Electronics,Audio,Trendora,S0080,3254.55,4099
+P00170,Cotton Trousers,Men Fashion,Kurtas,TechNova,S0129,2306.41,2894
+P00171,Microfiber Cleaning Set,Home & Kitchen,Kitchen Storage,Zenvia,S0117,677.33,1009
+P00172,Microfiber Cleaning Set,Home & Kitchen,Cleaning,Trendora,S0004,490.52,633
+P00173,Face Wash,Beauty,Makeup,StyleMint,S0188,1187.67,1629
+P00174,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,Vistara Living,S0151,637.27,894
+P00175,Regular Fit Jeans,Men Fashion,T-Shirts,HomeAura,S0063,626.59,1061
+P00176,Bluetooth Speaker,Electronics,Audio,NovaCart,S0234,2325.69,3381
+P00177,Kitchen Storage Container Set,Home & Kitchen,Cleaning,UrbanNest,S0183,1344.38,1792
+P00178,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,PrimeChoice,S0187,1956.39,2566
+P00179,Printed T-Shirt,Men Fashion,Shirts,NovaCart,S0209,383.86,523
+P00180,Men's Casual Shirt,Men Fashion,Trousers,Vistara Living,S0005,212.42,317
+P00181,Men's Casual Shirt,Men Fashion,Jeans,Trendora,S0133,2012.06,2956
+P00182,Face Wash,Beauty,Skincare,Vistara Living,S0276,1216.56,1681
+P00183,Wireless Mouse,Electronics,Mobile Accessories,UrbanNest,S0258,3580.02,4687
+P00184,Men's Casual Shirt,Men Fashion,Shirts,DailyEase,S0218,1193.01,1533
+P00185,Georgette Saree,Women Fashion,Kurtis,StyleMint,S0052,637.54,1135
+P00186,Embroidered Saree,Women Fashion,Dresses,HomeAura,S0282,1253.62,1692
+P00187,Face Wash,Beauty,Personal Care,Vistara Living,S0169,1085.0,1775
+P00188,Matte Liquid Lipstick,Beauty,Makeup,NovaCart,S0061,97.88,155
+P00189,Decorative Wall Clock,Home & Kitchen,Cleaning,HomeAura,S0300,561.66,835
+P00190,Embroidered Saree,Women Fashion,Tops,PrimeChoice,S0165,831.73,1209
+P00191,Casual Women's Top,Women Fashion,Sarees,StyleMint,S0253,396.77,511
+P00192,Floral Anarkali Kurti,Women Fashion,Sarees,GlowNest,S0255,1277.21,1723
+P00193,Georgette Saree,Women Fashion,Tops,UrbanWeave,S0024,742.93,1262
+P00194,Fast Charging Cable,Electronics,Computer Accessories,Trendora,S0010,1547.14,2109
+P00195,Herbal Shampoo,Beauty,Haircare,NovaCart,S0190,1250.18,1702
+P00196,Cotton Cushion Cover Set,Home & Kitchen,Cleaning,TechNova,S0034,434.47,777
+P00197,Embroidered Saree,Women Fashion,Kurtis,TechNova,S0257,583.38,1032
+P00198,Embroidered Saree,Women Fashion,Tops,GlowNest,S0247,944.03,1278
+P00199,Men's Casual Kurta,Men Fashion,Trousers,StyleMint,S0250,331.67,549
+P00200,Hair Repair Oil,Beauty,Skincare,NovaCart,S0227,134.68,181
+P00201,Casual Women's Top,Women Fashion,Tops,HomeAura,S0093,1109.24,1527
+P00202,Casual Women's Top,Women Fashion,Sarees,UrbanWeave,S0202,573.57,906
+P00203,Fast Charging Cable,Electronics,Computer Accessories,NovaCart,S0265,2351.34,3942
+P00204,Embroidered Saree,Women Fashion,Dresses,TechNova,S0006,1197.15,1954
+P00205,Non Stick Cookware Set,Home & Kitchen,Cookware,StyleMint,S0106,1696.26,2157
+P00206,Regular Fit Jeans,Men Fashion,Kurtas,StyleMint,S0071,1471.07,2248
+P00207,Fast Charging Cable,Electronics,Mobile Accessories,TechNova,S0259,3014.08,4582
+P00208,Bluetooth Speaker,Electronics,Audio,GlowNest,S0265,371.67,496
+P00209,Non Stick Cookware Set,Home & Kitchen,Cookware,Vistara Living,S0190,313.99,434
+P00210,Moisturizing Face Cream,Beauty,Makeup,DailyEase,S0269,980.84,1763
+P00211,Slim Fit Cotton Shirt,Men Fashion,Trousers,StyleMint,S0043,1744.32,2665
+P00212,Bluetooth Speaker,Electronics,Computer Accessories,Vistara Living,S0161,1753.91,2357
+P00213,Herbal Shampoo,Beauty,Personal Care,DailyEase,S0257,196.03,267
+P00214,Stainless Steel Bottle,Home & Kitchen,Cleaning,HomeAura,S0082,1009.44,1587
+P00215,Long Summer Dress,Women Fashion,Leggings,NovaCart,S0270,190.42,312
+P00216,Regular Fit Jeans,Men Fashion,T-Shirts,TechNova,S0067,886.73,1159
+P00217,Men's Casual Shirt,Men Fashion,T-Shirts,TechNova,S0076,605.74,1020
+P00218,Cotton Leggings,Women Fashion,Kurtis,UrbanWeave,S0190,384.04,506
+P00219,Microfiber Cleaning Set,Home & Kitchen,Cleaning,HomeAura,S0055,548.98,693
+P00220,Printed T-Shirt,Men Fashion,Shirts,StyleMint,S0279,664.76,944
+P00221,Georgette Saree,Women Fashion,Tops,Vistara Living,S0284,1602.2,2461
+P00222,Floral Anarkali Kurti,Women Fashion,Tops,Zenvia,S0297,472.79,623
+P00223,Slim Fit Cotton Shirt,Men Fashion,Kurtas,PrimeChoice,S0093,593.63,1065
+P00224,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,NovaCart,S0204,768.37,1289
+P00225,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,TechNova,S0037,1323.75,1928
+P00226,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,TechNova,S0100,343.21,528
+P00227,Long Summer Dress,Women Fashion,Tops,DailyEase,S0150,190.84,243
+P00228,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,NovaCart,S0094,1510.74,1991
+P00229,Hair Repair Oil,Beauty,Personal Care,Trendora,S0226,463.26,607
+P00230,Bluetooth Speaker,Electronics,Smart Devices,Zenvia,S0285,3018.35,3798
+P00231,Smart LED Bulb,Electronics,Mobile Accessories,NovaCart,S0167,378.71,515
+P00232,Georgette Saree,Women Fashion,Sarees,PrimeChoice,S0113,1547.22,2451
+P00233,Fast Charging Cable,Electronics,Mobile Accessories,Trendora,S0253,2924.65,4033
+P00234,Fast Charging Cable,Electronics,Audio,Vistara Living,S0199,2861.99,4939
+P00235,Moisturizing Face Cream,Beauty,Makeup,Zenvia,S0220,1195.09,1730
+P00236,Men's Casual Kurta,Men Fashion,Trousers,Trendora,S0170,1338.22,2018
+P00237,Microfiber Cleaning Set,Home & Kitchen,Cookware,DailyEase,S0106,1776.39,2838
+P00238,Microfiber Cleaning Set,Home & Kitchen,Home Decor,TechNova,S0012,1926.09,2765
+P00239,Cotton Leggings,Women Fashion,Leggings,HomeAura,S0002,1603.96,2435
+P00240,Cotton Cushion Cover Set,Home & Kitchen ,Home Decor,Zenvia,S0280,170.02,287
+P00241,Cotton Leggings,Women Fashion,Leggings,Trendora,S0085,630.28,902
+P00242,Cotton Leggings,Women Fashion,Tops,DailyEase,S0122,1097.23,1424
+P00243,Georgette Saree,Women Fashion,Tops,DailyEase,S0018,1676.62,2419
+P00244,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,Vistara Living,S0127,1362.3,1726
+P00245,Slim Fit Cotton Shirt,Men Fashion,Shirts,Trendora,S0021,831.83,1301
+P00246,Moisturizing Face Cream,Beauty,Haircare,DailyEase,S0059,1504.2,1896
+P00247,Printed T-Shirt,Men Fashion,Jeans,Vistara Living,S0018,1231.44,1644
+P00248,Stainless Steel Bottle,Home & Kitchen,Home Decor,Vistara Living,S0126,741.95,1051
+P00249,Slim Fit Cotton Shirt,Men Fashion,Jeans,Trendora,S0219,1491.73,1913
+P00250,Printed Cotton Kurti,Women Fashion,Leggings,UrbanWeave,S0276,1118.86,1619
+P00251,Slim Fit Cotton Shirt,Men Fashion,Shirts,Trendora,S0047,1034.91,1402
+P00252,Bluetooth Speaker,Electronics,Audio,StyleMint,S0202,2198.02,2979
+P00253,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,HomeAura,S0255,710.99,1214
+P00254,Regular Fit Jeans,Men Fashion,Shirts,NovaCart,S0191,1368.65,2182
+P00255,Men's Casual Shirt,Men Fashion,Shirts,UrbanWeave,S0138,1114.3,1871
+P00256,Floral Anarkali Kurti,Women Fashion,Leggings,DailyEase,S0051,1292.56,2034
+P00257,Regular Fit Jeans,Men Fashion,T-Shirts,UrbanNest,S0118,1210.27,2127
+P00258,Non Stick Cookware Set,Home & Kitchen,Home Decor,NovaCart,S0217,1070.93,1840
+P00259,Non Stick Cookware Set,Home & Kitchen,Home Decor,NovaCart,S0205,2239.41,2934
+P00260,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,UrbanNest,S0218,234.09,303
+P00261,Kitchen Storage Container Set,Home & Kitchen,Cookware,UrbanWeave,S0082,150.33,217
+P00262,Wireless Mouse,Electronics,Smart Devices,Trendora,S0098,848.61,1374
+P00263,Georgette Saree,Women Fashion,Kurtis,Zenvia,S0182,873.65,1142
+P00264,Moisturizing Face Cream,Beauty,Makeup,UrbanNest,S0072,421.91,578
+P00265,Wireless Mouse,Electronics,Audio,GlowNest,S0026,1573.54,2196
+P00266,Microfiber Cleaning Set,Home & Kitchen,Cleaning,TechNova,S0134,1480.58,2087
+P00267,Wireless Mouse,Electronics,Mobile Accessories,UrbanNest,S0079,1764.84,2307
+P00268,Mobile Phone Stand,Electronics,Mobile Accessories,PrimeChoice,S0165,1648.89,2332
+P00269,Smart LED Bulb,Electronics,Audio,NovaCart,S0004,1266.86,1726
+P00270,Bluetooth Speaker,Electronics,Computer Accessories,DailyEase,S0196,386.82,588
+P00271,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,HomeAura,S0286,693.74,995
+P00272,Moisturizing Face Cream,Beauty,Makeup,Trendora,S0030,1363.68,1936
+P00273,Face Wash,Beauty,Personal Care,NovaCart,S0222,902.64,1260
+P00274,Georgette Saree,Women Fashion,Leggings,PrimeChoice,S0184,1687.62,2261
+P00275,Mobile Phone Stand,Electronics,Mobile Accessories,PrimeChoice,S0165,2777.37,4684
+P00276,Non Stick Cookware Set,Home & Kitchen,Cleaning,PrimeChoice,S0010,1385.93,1855
+P00277,Bluetooth Speaker,Electronics ,Smart Devices,Trendora,S0300,2441.01,4199
+P00278,Vitamin C Face Serum,Beauty,Haircare,PrimeChoice,S0164,1426.0,1914
+P00279,Hair Repair Oil,Beauty,Makeup,Trendora,S0082,563.18,951
+P00280,Men's Casual Shirt,Men Fashion,Jeans,PrimeChoice,S0181,501.56,734
+P00281,Decorative Wall Clock,Home & Kitchen,Cookware,Vistara Living,S0211,1203.84,2030
+P00282,Fast Charging Cable,Electronics,Smart Devices,Trendora,S0087,202.15,353
+P00283,Men's Casual Shirt,Men Fashion,Jeans,DailyEase,S0090,1022.03,1476
+P00284,Casual Women's Top,Women Fashion,Kurtis,Zenvia,S0228,1238.19,1909
+P00285,Regular Fit Jeans,Men Fashion,Trousers,Zenvia,S0176,184.67,300
+P00286,Bluetooth Speaker,Electronics,Smart Devices,NovaCart,S0245,1096.56,1839
+P00287,Long Summer Dress,Women Fashion,Kurtis,PrimeChoice,S0026,807.06,1147
+P00288,Floral Anarkali Kurti,Women Fashion,Leggings,GlowNest,S0103,774.43,1205
+P00289,Fast Charging Cable,Electronics,Mobile Accessories,UrbanNest,S0238,975.42,1562
+P00290,Floral Anarkali Kurti,Women Fashion,Leggings,HomeAura,S0024,1346.01,1764
+P00291,Floral Anarkali Kurti,Women Fashion,Leggings,StyleMint,S0020,1402.02,2088
+P00292,Cotton Cushion Cover Set,Home & Kitchen,Home Decor,Zenvia,S0215,509.91,653
+P00293,Non Stick Cookware Set,Home & Kitchen,Cleaning,PrimeChoice,S0270,1116.62,1800
+P00294,Matte Liquid Lipstick,Beauty,Makeup,Trendora,S0238,834.07,1321
+P00295,Regular Fit Jeans,Men Fashion,Jeans,UrbanWeave,S0218,441.66,668
+P00296,Men's Casual Kurta,Men Fashion ,T-Shirts,HomeAura,S0102,453.45,754
+P00297,Long Summer Dress,Women Fashion,Kurtis,HomeAura,S0048,781.56,1259
+P00298,Vitamin C Face Serum,Beauty,Skincare,NovaCart,S0179,927.7,1614
+P00299,Face Wash,Beauty,Makeup,TechNova,S0238,366.38,551
+P00300,Cotton Cushion Cover Set,Home & Kitchen,Home Decor,HomeAura,S0017,1485.26,1920
+P00301,Cotton Trousers,Men Fashion,Jeans,NovaCart,S0024,890.14,1496
+P00302,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,GlowNest,S0052,1178.23,1541
+P00303,Wireless Bluetooth Earbuds,Electronics,Computer Accessories,DailyEase,S0254,726.34,957
+P00304,Fast Charging Cable,Electronics,Mobile Accessories,Trendora,S0022,1958.6,2704
+P00305,Herbal Shampoo,Beauty,Skincare,UrbanNest,S0137,480.37,779
+P00306,Non Stick Cookware Set,Home & Kitchen,Cookware,Vistara Living,S0172,826.6,1299
+P00307,Smart LED Bulb,Electronics,Computer Accessories,Trendora,S0006,1550.78,2342
+P00308,Hair Repair Oil,Beauty,Haircare,Trendora,S0194,667.12,906
+P00309,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,HomeAura,S0265,1254.11,2114
+P00310,Face Wash,Beauty,Makeup,DailyEase,S0002,137.5,173
+P00311,Hair Repair Oil,Beauty,Skincare,TechNova,S0161,1229.92,1939
+P00312,Matte Liquid Lipstick,Beauty,Skincare,StyleMint,S0121,694.22,949
+P00313,Wireless Bluetooth Earbuds,Electronics,Audio,NovaCart,S0040,1374.62,2054
+P00314,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,PrimeChoice,S0211,1675.54,2200
+P00315,Floral Anarkali Kurti,Women Fashion,Tops,NovaCart,S0268,1396.55,2065
+P00316,Herbal Shampoo,Beauty ,Skincare,UrbanNest,S0193,164.21,253
+P00317,Mobile Phone Stand,Electronics,Computer Accessories,HomeAura,S0132,2406.59,3127
+P00318,Stainless Steel Bottle,Home & Kitchen,Cookware,GlowNest,S0207,1320.15,1787
+P00319,Long Summer Dress,Women Fashion,Tops,GlowNest,S0045,1090.35,1415
+P00320,Matte Liquid Lipstick,Beauty,Makeup,DailyEase,S0086,301.09,454
+P00321,Cotton Leggings,Women Fashion ,Kurtis,PrimeChoice,S0021,1452.17,2316
+P00322,Kitchen Storage Container Set,Home & Kitchen,Cleaning,HomeAura,S0187,1101.38,1387
+P00323,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,TechNova,S0127,211.23,348
+P00324,Hair Repair Oil,Beauty,Personal Care,HomeAura,S0014,728.19,1191
+P00325,Stainless Steel Bottle,Home & Kitchen,Cleaning,TechNova,S0208,590.56,1063
+P00326,Floral Anarkali Kurti,Women Fashion,Leggings,HomeAura,S0216,695.57,948
+P00327,Kitchen Storage Container Set,Home & Kitchen,Home Decor,TechNova,S0263,1504.21,2715
+P00328,Wireless Mouse,Electronics,Computer Accessories,UrbanWeave,S0169,1374.84,2035
+P00329,Bluetooth Speaker,Electronics,Audio,HomeAura,S0294,3028.9,4105
+P00330,Men's Casual Kurta,Men Fashion,Jeans,TechNova,S0258,717.58,991
+P00331,Stainless Steel Bottle,Home & Kitchen,Kitchen Storage,Zenvia,S0166,1115.56,1488
+P00332,Vitamin C Face Serum,Beauty,Skincare,Zenvia,S0234,1069.15,1845
+P00333,Face Wash,Beauty,Personal Care,UrbanWeave,S0206,976.59,1715
+P00334,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,UrbanNest,S0032,1082.07,1799
+P00335,Microfiber Cleaning Set,Home & Kitchen,Cookware,TechNova,S0008,2297.46,2968
+P00336,Cotton Trousers,Men Fashion,Kurtas,DailyEase,S0261,760.23,1025
+P00337,Cotton Leggings,Women Fashion,Leggings,UrbanNest,S0252,1875.16,2396
+P00338,Bluetooth Speaker,Electronics,Mobile Accessories,Vistara Living,S0105,2289.65,2893
+P00339,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,DailyEase,S0158,152.41,223
+P00340,Herbal Shampoo,Beauty,Skincare,Vistara Living,S0016,841.65,1351
+P00341,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,UrbanWeave,S0155,1731.18,2193
+P00342,Wireless Bluetooth Earbuds,Electronics,Audio,DailyEase,S0290,1638.27,2561
+P00343,Kitchen Storage Container Set,Home & Kitchen,Cleaning,DailyEase,S0033,1229.38,1757
+P00344,Vitamin C Face Serum,Beauty,Personal Care,Trendora,S0272,98.22,153
+P00345,Hair Repair Oil,Beauty,Skincare,UrbanWeave,S0143,881.28,1198
+P00346,Men's Casual Kurta,Men Fashion,Shirts,TechNova,S0039,670.39,899
+P00347,Bluetooth Speaker,Electronics,Audio,HomeAura,S0003,2776.98,4111
+P00348,Stainless Steel Bottle,Home & Kitchen,Home Decor,UrbanWeave,S0176,796.43,1107
+P00349,Wireless Bluetooth Earbuds,Electronics,Audio,DailyEase,S0130,2392.99,3358
+P00350,Men's Casual Shirt,Men Fashion,Kurtas,Zenvia,S0230,904.81,1644
+P00351,Printed Cotton Kurti,Women Fashion,Dresses,Zenvia,S0153,547.27,838
+P00352,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,Zenvia,S0277,221.12,326
+P00353,Bluetooth Speaker,Electronics,Audio,Trendora,S0271,1010.92,1554
+P00354,Smart LED Bulb,Electronics,Computer Accessories,NovaCart,S0152,1192.55,1673
+P00355,Wireless Bluetooth Earbuds,Electronics,Smart Devices,GlowNest,S0265,269.75,406
+P00356,Smart LED Bulb,Electronics,Smart Devices,UrbanWeave,S0240,1246.75,1755
+P00357,Matte Liquid Lipstick,Beauty,Makeup,DailyEase,S0217,689.75,1007
+P00358,Embroidered Saree,Women Fashion,Leggings,HomeAura,S0242,385.37,650
+P00359,Kitchen Storage Container Set,Home & Kitchen,Cookware,Zenvia,S0069,1385.63,2482
+P00360,Men's Casual Shirt,Men Fashion,Kurtas,HomeAura,S0090,1222.63,2167
+P00361,Printed T-Shirt,Men Fashion,Jeans,UrbanWeave,S0196,847.63,1402
+P00362,Printed T-Shirt,Men Fashion,Jeans,Zenvia,S0249,1754.2,2436
+P00363,Printed Cotton Kurti,Women Fashion,Sarees,NovaCart,S0074,1059.7,1408
+P00364,Slim Fit Cotton Shirt,Men Fashion,Jeans,UrbanNest,S0300,1376.66,1969
+P00365,Regular Fit Jeans,Men Fashion,T-Shirts,GlowNest,S0094,1095.77,1790
+P00366,Herbal Shampoo,Beauty,Personal Care,Vistara Living,S0031,1383.0,1834
+P00367,Mobile Phone Stand,Electronics,Computer Accessories,Vistara Living,S0151,2160.05,3926
+P00368,Non Stick Cookware Set,Home & Kitchen,Home Decor,Vistara Living,S0182,818.9,1461
+P00369,Microfiber Cleaning Set,Home & Kitchen,Home Decor,StyleMint,S0226,379.16,523
+P00370,Vitamin C Face Serum,Beauty,Makeup,GlowNest,S0140,1259.75,1938
+P00371,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,TechNova,S0292,2408.7,3134
+P00372,Microfiber Cleaning Set,Home & Kitchen,Cookware,HomeAura,S0205,1059.92,1712
+P00373,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,HomeAura,S0196,817.27,1244
+P00374,Decorative Wall Clock,Home & Kitchen,Cleaning,DailyEase,S0191,1475.62,2596
+P00375,Face Wash,Beauty,Personal Care,NovaCart,S0026,294.78,505
+P00376,Cotton Trousers,Men Fashion,Kurtas,DailyEase,S0211,1122.51,1883
+P00377,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,TechNova,S0038,2219.83,3393
+P00378,Fast Charging Cable,Electronics,Computer Accessories,DailyEase,S0194,1390.1,1798
+P00379,Smart LED Bulb,Electronics,Mobile Accessories,GlowNest,S0165,2900.21,4739
+P00380,Microfiber Cleaning Set,Home & Kitchen,Cleaning,TechNova,S0254,1536.46,2307
+P00381,Wireless Mouse,Electronics,Mobile Accessories,Vistara Living,S0063,2102.85,3802
+P00382,Matte Liquid Lipstick,Beauty,Skincare,DailyEase,S0129,960.0,1220
+P00383,Printed T-Shirt,Men Fashion,Shirts,DailyEase,S0098,783.47,1118
+P00384,Floral Anarkali Kurti,Women Fashion,Sarees,UrbanNest,S0003,1020.4,1847
+P00385,Matte Liquid Lipstick,Beauty,Haircare,HomeAura,S0239,1180.16,1485
+P00386,Men's Casual Kurta,Men Fashion,Kurtas,PrimeChoice,S0157,452.97,574
+P00387,Printed T-Shirt,Men Fashion,Shirts,UrbanNest,S0154,1481.08,2609
+P00388,Casual Women's Top,Women Fashion,Sarees,TechNova,S0279,1405.05,2229
+P00389,Cotton Trousers,Men Fashion,Shirts,UrbanWeave,S0168,1924.27,2809
+P00390,Non Stick Cookware Set,Home & Kitchen,Home Decor,NovaCart,S0070,2300.7,2931
+P00391,Casual Women's Top,Women Fashion,Tops,Vistara Living,S0094,461.27,818
+P00392,Matte Liquid Lipstick,Beauty,Skincare,HomeAura,S0219,1030.59,1316
+P00393,Smart LED Bulb,Electronics,Audio,Trendora,S0206,1646.25,2387
+P00394,Mobile Phone Stand,Electronics,Audio,Zenvia,S0068,2133.88,3280
+P00395,Long Summer Dress,Women Fashion,Dresses,TechNova,S0002,1034.05,1691
+P00396,Bluetooth Speaker,Electronics,Computer Accessories,DailyEase,S0221,840.57,1072
+P00397,Vitamin C Face Serum,Beauty,Personal Care,Zenvia,S0149,1259.9,1700
+P00398,Moisturizing Face Cream,Beauty,Skincare,StyleMint,S0084,709.03,1154
+P00399,Men's Casual Kurta,Men Fashion,Shirts,HomeAura,S0162,733.57,1094
+P00400,Printed Cotton Kurti,Women Fashion,Kurtis,UrbanWeave,S0101,1500.45,2231
+P00401,Regular Fit Jeans,Men Fashion,Shirts,UrbanNest,S0215,978.93,1731
+P00402,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,DailyEase,S0299,1049.44,1450
+P00403,Floral Anarkali Kurti,Women Fashion,Leggings,TechNova,S0108,1550.84,2311
+P00404,Georgette Saree,Women Fashion,Sarees,NovaCart,S0159,716.47,952
+P00405,Microfiber Cleaning Set,Home & Kitchen,Home Decor,TechNova,S0139,1481.21,2693
+P00406,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,Vistara Living,S0066,1561.74,2388
+P00407,Matte Liquid Lipstick,Beauty,Makeup,StyleMint,S0212,1188.2,1565
+P00408,Printed Cotton Kurti,Women Fashion,Leggings,StyleMint,S0286,1506.2,2129
+P00409,Long Summer Dress,Women Fashion,Dresses,GlowNest,S0086,930.13,1177
+P00410,Wireless Bluetooth Earbuds,Electronics,Smart Devices,NovaCart,S0099,1559.07,2444
+P00411,Cotton Leggings,Women Fashion,Leggings,GlowNest,S0182,344.1,499
+P00412,Georgette Saree,Women Fashion,Tops,StyleMint,S0049,1786.52,2429
+P00413,Decorative Wall Clock,Home & Kitchen,Home Decor,Vistara Living,S0188,1772.55,2735
+P00414,Bluetooth Speaker,Electronics,Audio,Zenvia,S0243,450.48,633
+P00415,Printed Cotton Kurti,Women Fashion,Tops,PrimeChoice,S0007,931.54,1205
+P00416,Moisturizing Face Cream,Beauty,Haircare,Vistara Living,S0010,266.42,389
+P00417,Fast Charging Cable,Electronics,Mobile Accessories,UrbanWeave,S0013,687.98,916
+P00418,Regular Fit Jeans,Men Fashion,Kurtas,Vistara Living,S0021,1418.41,1911
+P00419,Smart LED Bulb,Electronics,Smart Devices,UrbanWeave,S0143,3114.01,4792
+P00420,Casual Women's Top,Women Fashion,Dresses,StyleMint,S0201,1334.11,2412
+P00421,Men's Casual Kurta,Men Fashion,Kurtas,NovaCart,S0196,963.75,1683
+P00422,Non Stick Cookware Set,Home & Kitchen,Cookware,Trendora,S0214,742.42,1168
+P00423,Slim Fit Cotton Shirt,Men Fashion,Shirts,NovaCart,S0154,2210.7,2776
+P00424,Casual Women's Top,Women Fashion,Leggings,TechNova,S0222,308.8,417
+P00425,Long Summer Dress,Women Fashion,Leggings,DailyEase,S0022,1667.46,2486
+P00426,Men's Casual Kurta,Men Fashion,Shirts,GlowNest,S0048,545.9,780
+P00427,Matte Liquid Lipstick,Beauty,Skincare,HomeAura,S0075,202.17,337
+P00428,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,StyleMint,S0284,1075.69,1572
+P00429,Wireless Mouse,Electronics,Audio,Trendora,S0124,1188.14,1584
+P00430,Casual Women's Top,Women Fashion,Kurtis,UrbanWeave,S0233,1032.46,1850
+P00431,Men's Casual Shirt,Men Fashion,T-Shirts,UrbanWeave,S0241,960.05,1583
+P00432,Embroidered Saree,Women Fashion,Dresses,NovaCart,S0143,842.7,1315
+P00433,Microfiber Cleaning Set,Home & Kitchen,Kitchen Storage,UrbanWeave,S0071,2302.55,2979
+P00434,Regular Fit Jeans,Men Fashion,Shirts,DailyEase,S0038,347.88,559
+P00435,Mobile Phone Stand,Electronics,Smart Devices,TechNova,S0216,1559.05,2246
+P00436,Non Stick Cookware Set,Home & Kitchen,Cleaning,PrimeChoice,S0168,1110.77,1867
+P00437,Wireless Bluetooth Earbuds,Electronics,Computer Accessories,Trendora,S0007,1960.87,3225
+P00438,Stainless Steel Bottle,Home & Kitchen,Kitchen Storage,StyleMint,S0067,1493.22,2388
+P00439,Kitchen Storage Container Set,Home & Kitchen,Cleaning,HomeAura,S0265,841.96,1084
+P00440,Cotton Leggings,Women Fashion,Tops,HomeAura,S0022,266.47,411
+P00441,Cotton Cushion Cover Set,Home & Kitchen,Cookware,PrimeChoice,S0067,149.76,233
+P00442,Mobile Phone Stand,Electronics,Audio,DailyEase,S0005,2319.26,3762
+P00443,Wireless Bluetooth Earbuds,Electronics,Audio,Trendora,S0061,1407.95,2021
+P00444,Long Summer Dress,Women Fashion,Sarees,Zenvia,S0070,185.7,317
+P00445,Wireless Mouse,Electronics,Smart Devices,StyleMint,S0236,1114.26,1543
+P00446,Mobile Phone Stand,Electronics,Computer Accessories,DailyEase,S0058,1976.62,3252
+P00447,Men's Casual Shirt,Men Fashion,Trousers,HomeAura,S0274,353.62,501
+P00448,Cotton Leggings,Women Fashion,Sarees,NovaCart,S0253,1336.22,2097
+P00449,Moisturizing Face Cream,Beauty,Haircare,Zenvia,S0071,1003.9,1439
+P00450,Face Wash,Beauty,Haircare,PrimeChoice,S0145,1019.16,1289
+P00451,Vitamin C Face Serum,Beauty,Haircare,Zenvia,S0286,687.74,1201
+P00452,Mobile Phone Stand,Electronics,Audio,UrbanWeave,S0179,3310.97,4738
+P00453,Moisturizing Face Cream,Beauty ,Skincare,StyleMint,S0145,1492.13,1964
+P00454,Non Stick Cookware Set,Home & Kitchen,Cleaning,Trendora,S0190,619.56,886
+P00455,Casual Women's Top,Women Fashion,Dresses,HomeAura,S0209,1253.42,2226
+P00456,Cotton Leggings,Women Fashion,Sarees,Trendora,S0216,1077.02,1871
+P00457,Matte Liquid Lipstick,Beauty,Personal Care,UrbanWeave,S0230,588.54,1065
+P00458,Regular Fit Jeans,Men Fashion,Trousers,UrbanNest,S0181,212.13,364
+P00459,Matte Liquid Lipstick,Beauty,Haircare,UrbanWeave,S0102,189.22,294
+P00460,Embroidered Saree,Women Fashion,Kurtis,HomeAura,S0047,822.07,1142
+P00461,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,TechNova,S0270,1088.67,1932
+P00462,Wireless Mouse,Electronics,Audio,UrbanNest,S0155,776.23,1305
+P00463,Cotton Trousers,Men Fashion,T-Shirts,NovaCart,S0291,1024.98,1635
+P00464,Georgette Saree,Women Fashion,Dresses,PrimeChoice,S0164,1022.85,1695
+P00465,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,UrbanWeave,S0041,1210.34,2084
+P00466,Bluetooth Speaker,Electronics,Computer Accessories,DailyEase,S0208,2064.0,2709
+P00467,Printed T-Shirt,Men Fashion,Trousers,Vistara Living,S0284,1456.97,1889
+P00468,Men's Casual Kurta,Men Fashion,Jeans,TechNova,S0287,1877.0,2786
+P00469,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,Vistara Living,S0096,1190.94,2118
+P00470,Stainless Steel Bottle,Home & Kitchen,Cleaning,Zenvia,S0126,385.26,562
+P00471,Floral Anarkali Kurti,Women Fashion,Leggings,HomeAura,S0185,484.05,870
+P00472,Non Stick Cookware Set,Home & Kitchen,Cookware,PrimeChoice,S0074,743.51,975
+P00473,Fast Charging Cable,Electronics,Computer Accessories,NovaCart,S0208,807.46,1340
+P00474,Vitamin C Face Serum,Beauty ,Makeup,StyleMint,S0069,1329.95,1927
+P00475,Regular Fit Jeans,Men Fashion,T-Shirts,NovaCart,S0096,1405.89,2183
+P00476,Regular Fit Jeans,Men Fashion,Trousers,Vistara Living,S0082,894.56,1268
+P00477,Mobile Phone Stand,Electronics,Smart Devices,UrbanWeave,S0123,786.92,1401
+P00478,Cotton Trousers,Men Fashion,Shirts,UrbanNest,S0001,418.57,683
+P00479,Non Stick Cookware Set,Home & Kitchen,Cookware,Trendora,S0151,622.02,916
+P00480,Regular Fit Jeans,Men Fashion,Jeans,Trendora,S0269,412.28,588
+P00481,Mobile Phone Stand,Electronics,Audio,UrbanNest,S0165,2662.4,4207
+P00482,Face Wash,Beauty,Haircare,Zenvia,S0200,493.87,849
+P00483,Cotton Cushion Cover Set,Home & Kitchen,Home Decor,Vistara Living,S0036,1825.58,2527
+P00484,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,NovaCart,S0202,269.96,490
+P00485,Men's Casual Kurta,Men Fashion,T-Shirts,UrbanWeave,S0222,555.54,932
+P00486,Regular Fit Jeans,Men Fashion,T-Shirts,Vistara Living,S0112,1426.41,2139
+P00487,Long Summer Dress,Women Fashion,Dresses,HomeAura,S0018,1647.11,2272
+P00488,Stainless Steel Bottle,Home & Kitchen,Home Decor,Zenvia,S0227,1201.6,2157
+P00489,Printed T-Shirt,Men Fashion,Kurtas,StyleMint,S0018,312.68,513
+P00490,Fast Charging Cable,Electronics,Smart Devices,UrbanWeave,S0070,3275.54,4373
+P00491,Face Wash,Beauty,Makeup,PrimeChoice,S0243,1027.06,1836
+P00492,Vitamin C Face Serum,Beauty,Makeup,UrbanWeave,S0010,1339.27,1987
+P00493,Decorative Wall Clock,Home & Kitchen,Cleaning,HomeAura,S0233,1344.46,2272
+P00494,Cotton Trousers,Men Fashion,Jeans,Trendora,S0221,234.22,308
+P00495,Floral Anarkali Kurti,Women Fashion,Kurtis,UrbanWeave,S0261,1109.98,1857
+P00496,Moisturizing Face Cream,Beauty,Personal Care,DailyEase,S0145,726.37,992
+P00497,Decorative Wall Clock,Home & Kitchen,Home Decor,UrbanNest,S0107,1769.88,2636
+P00498,Smart LED Bulb,Electronics,Mobile Accessories,GlowNest,S0295,3544.53,4924
+P00499,Moisturizing Face Cream,Beauty,Makeup,HomeAura,S0260,1070.4,1375
+P00500,Long Summer Dress,Women Fashion,Leggings,NovaCart,S0008,1121.91,1489
+P00501,Fast Charging Cable,Electronics,Mobile Accessories,NovaCart,S0224,2725.17,3664
+P00502,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,HomeAura,S0132,960.55,1210
+P00503,Printed Cotton Kurti,Women Fashion,Sarees,PrimeChoice,S0300,613.64,841
+P00504,Mobile Phone Stand,Electronics,Audio,GlowNest,S0148,697.52,1103
+P00505,Moisturizing Face Cream,Beauty,Skincare,Trendora,S0038,100.29,182
+P00506,Stainless Steel Bottle,Home & Kitchen,Cleaning,DailyEase,S0099,507.23,868
+P00507,Bluetooth Speaker,Electronics,Smart Devices,StyleMint,S0083,1606.27,2708
+P00508,Stainless Steel Bottle,Home & Kitchen,Cleaning,GlowNest,S0033,1638.46,2263
+P00509,Fast Charging Cable,Electronics,Mobile Accessories,UrbanWeave,S0280,1277.42,1928
+P00510,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,UrbanNest,S0149,1985.15,2891
+P00511,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,PrimeChoice,S0103,409.59,514
+P00512,Herbal Shampoo,Beauty,Haircare,DailyEase,S0295,516.84,775
+P00513,Bluetooth Speaker,Electronics,Smart Devices,GlowNest,S0167,331.48,449
+P00514,Microfiber Cleaning Set,Home & Kitchen,Cleaning,Vistara Living,S0199,900.78,1302
+P00515,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,UrbanNest,S0203,2290.6,3892
+P00516,Printed Cotton Kurti,Women Fashion,Leggings,HomeAura,S0197,507.08,775
+P00517,Men's Casual Shirt,Men Fashion,Shirts,PrimeChoice,S0164,1269.52,2013
+P00518,Decorative Wall Clock,Home & Kitchen,Cleaning,HomeAura,S0268,1047.31,1552
+P00519,Moisturizing Face Cream,Beauty,Haircare,Trendora,S0052,1325.22,1968
+P00520,Herbal Shampoo,Beauty,Personal Care,HomeAura,S0027,392.07,711
+P00521,Wireless Mouse,Electronics,Computer Accessories,GlowNest,S0213,3372.95,4517
+P00522,Men's Casual Kurta,Men Fashion,Jeans,HomeAura,S0213,341.41,534
+P00523,Moisturizing Face Cream,Beauty,Haircare,NovaCart,S0132,215.97,367
+P00524,Hair Repair Oil,Beauty,Makeup,Zenvia,S0152,951.73,1354
+P00525,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,HomeAura,S0274,1606.93,2466
+P00526,Cotton Leggings,Women Fashion,Leggings,Zenvia,S0241,876.03,1154
+P00527,Printed Cotton Kurti,Women Fashion,Dresses,DailyEase,S0024,784.42,1203
+P00528,Vitamin C Face Serum,Beauty,Haircare,Zenvia,S0211,395.38,583
+P00529,Men's Casual Kurta,Men Fashion,Shirts,DailyEase,S0277,1217.96,1662
+P00530,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,NovaCart,S0109,1860.85,2526
+P00531,Smart LED Bulb,Electronics,Audio,DailyEase,S0244,2694.65,3798
+P00532,Non Stick Cookware Set,Home & Kitchen,Cleaning,GlowNest,S0079,834.55,1316
+P00533,Vitamin C Face Serum,Beauty,Makeup,GlowNest,S0139,576.75,891
+P00534,Georgette Saree,Women Fashion,Tops,HomeAura,S0182,247.76,372
+P00535,Microfiber Cleaning Set,Home & Kitchen,Home Decor,UrbanWeave,S0256,178.17,257
+P00536,Printed T-Shirt,Men Fashion,Kurtas,UrbanWeave,S0300,290.3,376
+P00537,Fast Charging Cable,Electronics,Audio,NovaCart,S0129,2084.98,3789
+P00538,Slim Fit Cotton Shirt,Men Fashion,Shirts,DailyEase,S0272,425.84,667
+P00539,Cotton Trousers,Men Fashion,Jeans,TechNova,S0009,1016.71,1447
+P00540,Slim Fit Cotton Shirt,Men Fashion,Jeans,PrimeChoice,S0289,282.79,466
+P00541,Cotton Cushion Cover Set,Home & Kitchen,Cleaning,StyleMint,S0236,935.23,1369
+P00542,Wireless Bluetooth Earbuds,Electronics,Smart Devices,PrimeChoice,S0218,1574.22,2778
+P00543,Vitamin C Face Serum,Beauty,Skincare,DailyEase,S0067,105.33,156
+P00544,Face Wash,Beauty,Personal Care,UrbanNest,S0142,903.3,1202
+P00545,Fast Charging Cable,Electronics,Computer Accessories,Trendora,S0113,1603.41,2253
+P00546,Stainless Steel Bottle,Home & Kitchen,Kitchen Storage,HomeAura,S0281,1812.9,2832
+P00547,Fast Charging Cable,Electronics,Smart Devices,NovaCart,S0247,2627.19,4011
+P00548,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,HomeAura,S0002,2321.29,3881
+P00549,Microfiber Cleaning Set,Home & Kitchen,Cookware,StyleMint,S0045,767.16,1074
+P00550,Cotton Leggings,Women Fashion,Leggings,Trendora,S0257,378.96,568
+P00551,Herbal Shampoo,Beauty,Skincare,DailyEase,S0175,1175.23,1835
+P00552,Hair Repair Oil,Beauty,Personal Care,HomeAura,S0012,888.4,1272
+P00553,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,UrbanWeave,S0113,1596.28,2183
+P00554,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,Zenvia,S0297,1862.76,2757
+P00555,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,Zenvia,S0294,1605.22,2230
+P00556,Georgette Saree,Women Fashion,Dresses,UrbanWeave,S0278,1010.99,1316
+P00557,Stainless Steel Bottle,Home & Kitchen,Kitchen Storage,TechNova,S0239,1525.55,2460
+P00558,Mobile Phone Stand,Electronics,Smart Devices,HomeAura,S0228,1347.6,2374
+P00559,Decorative Wall Clock,Home & Kitchen,Home Decor,GlowNest,S0040,717.89,1028
+P00560,Bluetooth Speaker,Electronics,Audio,StyleMint,S0034,1311.41,1970
+P00561,Wireless Mouse,Electronics,Audio,DailyEase,S0286,3009.92,4296
+P00562,Hair Repair Oil,Beauty,Haircare,Trendora,S0200,1033.03,1395
+P00563,Microfiber Cleaning Set,Home & Kitchen,Cookware,HomeAura,S0227,878.78,1278
+P00564,Men's Casual Shirt,Men Fashion,Kurtas,HomeAura,S0246,739.32,936
+P00565,Floral Anarkali Kurti,Women Fashion,Sarees,UrbanNest,S0093,1320.34,1833
+P00566,Mobile Phone Stand,Electronics,Audio,GlowNest,S0281,2190.45,2982
+P00567,Casual Women's Top,Women Fashion,Sarees,UrbanWeave,S0199,1640.6,2410
+P00568,Cotton Leggings,Women Fashion,Leggings,UrbanWeave,S0014,563.14,747
+P00569,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,UrbanNest,S0019,1303.13,1788
+P00570,Casual Women's Top,Women Fashion,Dresses,DailyEase,S0076,446.99,739
+P00571,Bluetooth Speaker,Electronics,Mobile Accessories,Vistara Living,S0119,3354.7,4781
+P00572,Face Wash,Beauty,Personal Care,Zenvia,S0233,541.14,771
+P00573,Men's Casual Shirt,Men Fashion,Jeans,GlowNest,S0236,1360.21,2022
+P00574,Smart LED Bulb,Electronics,Computer Accessories,StyleMint,S0098,1673.39,2094
+P00575,Matte Liquid Lipstick,Beauty,Personal Care,PrimeChoice,S0121,1201.02,1788
+P00576,Cotton Leggings,Women Fashion,Sarees,StyleMint,S0169,627.94,1092
+P00577,Embroidered Saree,Women Fashion,Tops,GlowNest,S0048,212.91,333
+P00578,Microfiber Cleaning Set,Home & Kitchen,Cookware,NovaCart,S0144,960.6,1320
+P00579,Georgette Saree,Women Fashion,Tops,UrbanNest,S0054,1563.05,2284
+P00580,Moisturizing Face Cream,Beauty,Makeup,UrbanWeave,S0027,1319.56,1967
+P00581,Floral Anarkali Kurti,Women Fashion,Sarees,HomeAura,S0102,1159.32,1520
+P00582,Wireless Bluetooth Earbuds,Electronics,Computer Accessories,GlowNest,S0202,2053.68,2905
+P00583,Mobile Phone Stand,Electronics,Audio,TechNova,S0225,386.11,555
+P00584,Smart LED Bulb,Electronics,Computer Accessories,Vistara Living,S0073,527.14,686
+P00585,Moisturizing Face Cream,Beauty,Haircare,HomeAura,S0135,693.01,1022
+P00586,Kitchen Storage Container Set,Home & Kitchen,Home Decor,PrimeChoice,S0217,866.57,1148
+P00587,Kitchen Storage Container Set,Home & Kitchen,Home Decor,DailyEase,S0069,309.26,470
+P00588,Vitamin C Face Serum,Beauty,Personal Care,UrbanNest,S0107,1148.26,1702
+P00589,Moisturizing Face Cream,Beauty,Personal Care,DailyEase,S0083,781.83,1076
+P00590,Slim Fit Cotton Shirt,Men Fashion,Trousers,PrimeChoice,S0287,491.69,726
+P00591,Slim Fit Cotton Shirt,Men Fashion,Shirts,GlowNest,S0170,1978.5,2612
+P00592,Face Wash,Beauty,Haircare,Vistara Living,S0117,386.71,484
+P00593,Men's Casual Shirt,Men Fashion,Jeans,UrbanNest,S0191,1403.56,1838
+P00594,Mobile Phone Stand,Electronics,Smart Devices,HomeAura,S0299,1595.99,2332
+P00595,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,TechNova,S0197,654.97,1048
+P00596,Vitamin C Face Serum,Beauty,Personal Care,StyleMint,S0294,950.99,1638
+P00597,Mobile Phone Stand,Electronics,Smart Devices,NovaCart,S0250,720.3,923
+P00598,Bluetooth Speaker,Electronics,Audio,Zenvia,S0173,508.58,770
+P00599,Men's Casual Shirt,Men Fashion,T-Shirts,DailyEase,S0208,1720.07,2402
+P00600,Mobile Phone Stand,Electronics,Audio,Vistara Living,S0051,2006.99,2597
+P00601,Face Wash,Beauty,Haircare,PrimeChoice,S0030,731.36,1131
+P00602,Smart LED Bulb,Electronics ,Smart Devices,NovaCart,S0231,1385.5,1915
+P00603,Casual Women's Top,Women Fashion,Sarees,UrbanWeave,S0148,487.01,712
+P00604,Men's Casual Shirt,Men Fashion,T-Shirts,PrimeChoice,S0179,603.04,919
+P00605,Long Summer Dress,Women Fashion,Leggings,UrbanNest,S0096,1288.56,1773
+P00606,Bluetooth Speaker,Electronics,Mobile Accessories,DailyEase,S0064,2213.44,3338
+P00607,Cotton Cushion Cover Set,Home & Kitchen,Cleaning,Trendora,S0001,1562.09,1982
+P00608,Vitamin C Face Serum,Beauty,Personal Care,Trendora,S0017,426.11,718
+P00609,Men's Casual Kurta,Men Fashion,T-Shirts,Zenvia,S0279,740.6,1200
+P00610,Long Summer Dress,Women Fashion,Sarees,Vistara Living,S0284,1578.84,1991
+P00611,Decorative Wall Clock,Home & Kitchen,Cleaning,TechNova,S0049,2004.6,2727
+P00612,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,HomeAura,S0142,575.64,812
+P00613,Georgette Saree,Women Fashion,Tops,Vistara Living,S0109,217.6,309
+P00614,Herbal Shampoo,Beauty,Makeup,HomeAura,S0185,588.17,771
+P00615,Herbal Shampoo,Beauty,Skincare,HomeAura,S0282,1022.09,1815
+P00616,Slim Fit Cotton Shirt,Men Fashion,Trousers,DailyEase,S0291,1120.22,1853
+P00617,Hair Repair Oil,Beauty,Personal Care,Trendora,S0299,916.35,1446
+P00618,Men's Casual Kurta,Men Fashion,Trousers,UrbanNest,S0135,1348.99,2095
+P00619,Matte Liquid Lipstick,Beauty,Makeup,StyleMint,S0281,462.84,592
+P00620,Long Summer Dress,Women Fashion,Sarees,NovaCart,S0107,997.6,1569
+P00621,Hair Repair Oil,Beauty,Haircare,GlowNest,S0093,647.49,966
+P00622,Smart LED Bulb,Electronics,Mobile Accessories,Vistara Living,S0124,159.42,255
+P00623,Georgette Saree,Women Fashion,Tops,StyleMint,S0043,856.53,1329
+P00624,Microfiber Cleaning Set,Home & Kitchen,Home Decor,UrbanNest,S0048,592.49,1009
+P00625,Hair Repair Oil,Beauty,Personal Care,Vistara Living,S0163,804.63,1207
+P00626,Cotton Leggings,Women Fashion,Sarees,StyleMint,S0299,144.39,232
+P00627,Herbal Shampoo,Beauty,Skincare,UrbanNest,S0218,828.82,1163
+P00628,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,Zenvia,S0258,3437.77,4577
+P00629,Long Summer Dress,Women Fashion,Kurtis,UrbanNest,S0125,1604.23,2394
+P00630,Hair Repair Oil,Beauty ,Skincare,NovaCart,S0034,202.6,321
+P00631,Regular Fit Jeans,Men Fashion,Trousers,Zenvia,S0054,1625.66,2489
+P00632,Microfiber Cleaning Set,Home & Kitchen,Kitchen Storage,UrbanWeave,S0208,1187.14,2067
+P00633,Bluetooth Speaker,Electronics,Smart Devices,Zenvia,S0233,1581.31,2716
+P00634,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,Vistara Living,S0102,1473.96,1951
+P00635,Georgette Saree,Women Fashion,Tops,Zenvia,S0101,677.99,933
+P00636,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,GlowNest,S0095,571.86,955
+P00637,Stainless Steel Bottle,Home & Kitchen,Home Decor,UrbanWeave,S0010,1221.43,1571
+P00638,Vitamin C Face Serum,Beauty,Skincare,NovaCart,S0050,543.33,739
+P00639,Regular Fit Jeans,Men Fashion,Shirts,StyleMint,S0053,1322.11,1973
+P00640,Georgette Saree,Women Fashion,Tops,HomeAura,S0206,432.17,779
+P00641,Men's Casual Kurta,Men Fashion,T-Shirts,Trendora,S0070,1419.6,2426
+P00642,Matte Liquid Lipstick,Beauty,Makeup,Trendora,S0067,488.25,803
+P00643,Printed T-Shirt,Men Fashion,Shirts,UrbanNest,S0015,1079.84,1846
+P00644,Wireless Bluetooth Earbuds,Electronics,Audio,GlowNest,S0132,873.4,1181
+P00645,Vitamin C Face Serum,Beauty,Skincare,UrbanWeave,S0117,763.94,1328
+P00646,Slim Fit Cotton Shirt,Men Fashion,Jeans,Vistara Living,S0060,1557.61,2416
+P00647,Men's Casual Kurta,Men Fashion,T-Shirts,UrbanWeave,S0211,1685.4,2747
+P00648,Vitamin C Face Serum,Beauty,Haircare,HomeAura,S0257,370.63,592
+P00649,Hair Repair Oil,Beauty,Haircare,Trendora,S0003,693.19,1055
+P00650,Herbal Shampoo,Beauty,Personal Care,PrimeChoice,S0028,335.6,544
+P00651,Fast Charging Cable,Electronics,Smart Devices,UrbanWeave,S0243,2825.7,3831
+P00652,Men's Casual Kurta,Men Fashion,Jeans,Trendora,S0185,1818.53,2645
+P00653,Fast Charging Cable,Electronics,Computer Accessories,StyleMint,S0048,2062.32,3167
+P00654,Regular Fit Jeans,Men Fashion,Trousers,UrbanNest,S0289,1369.9,1818
+P00655,Herbal Shampoo,Beauty,Personal Care,UrbanWeave,S0127,302.59,471
+P00656,Smart LED Bulb,Electronics,Audio,NovaCart,S0054,2394.74,3661
+P00657,Non Stick Cookware Set,Home & Kitchen,Home Decor,PrimeChoice,S0298,793.67,1219
+P00658,Moisturizing Face Cream,Beauty,Skincare,HomeAura,S0139,1285.77,1947
+P00659,Stainless Steel Bottle,Home & Kitchen,Home Decor,DailyEase,S0288,732.23,1154
+P00660,Stainless Steel Bottle,Home & Kitchen,Cookware,PrimeChoice,S0174,1760.92,2560
+P00661,Printed T-Shirt,Men Fashion,T-Shirts,TechNova,S0199,867.84,1128
+P00662,Wireless Mouse,Electronics,Mobile Accessories,Trendora,S0042,694.35,1094
+P00663,Non Stick Cookware Set,Home & Kitchen,Cleaning,StyleMint,S0115,1895.47,2760
+P00664,Face Wash,Beauty,Skincare,GlowNest,S0169,479.74,735
+P00665,Stainless Steel Bottle,Home & Kitchen,Cookware,HomeAura,S0052,1427.51,2565
+P00666,Wireless Mouse,Electronics ,Mobile Accessories,DailyEase,S0122,3258.54,4881
+P00667,Bluetooth Speaker,Electronics ,Audio,UrbanWeave,S0115,661.61,1036
+P00668,Wireless Bluetooth Earbuds,Electronics,Audio,UrbanWeave,S0264,2688.92,3473
+P00669,Men's Casual Shirt,Men Fashion,Trousers,Vistara Living,S0255,255.49,418
+P00670,Cotton Cushion Cover Set,Home & Kitchen,Cookware,Zenvia,S0086,293.87,440
+P00671,Casual Women's Top,Women Fashion,Tops,PrimeChoice,S0284,1457.52,1934
+P00672,Floral Anarkali Kurti,Women Fashion,Leggings,Vistara Living,S0294,1306.17,1782
+P00673,Printed Cotton Kurti,Women Fashion,Sarees,DailyEase,S0101,888.6,1368
+P00674,Herbal Shampoo,Beauty,Personal Care,Trendora,S0143,331.19,525
+P00675,Bluetooth Speaker,Electronics,Mobile Accessories,Vistara Living,S0208,1703.52,2678
+P00676,Men's Casual Shirt,Men Fashion,Kurtas,DailyEase,S0300,1276.34,2183
+P00677,Vitamin C Face Serum,Beauty,Makeup,GlowNest,S0135,723.45,958
+P00678,Floral Anarkali Kurti,Women Fashion,Kurtis,PrimeChoice,S0197,1373.62,1893
+P00679,Matte Liquid Lipstick,Beauty,Personal Care,HomeAura,S0014,925.9,1419
+P00680,Fast Charging Cable,Electronics,Mobile Accessories,Zenvia,S0057,1779.8,2941
+P00681,Printed Cotton Kurti,Women Fashion,Dresses,Zenvia,S0293,569.9,894
+P00682,Cotton Leggings,Women Fashion,Dresses,PrimeChoice,S0140,837.23,1210
+P00683,Wireless Bluetooth Earbuds,Electronics,Audio,NovaCart,S0140,1117.97,1843
+P00684,Men's Casual Kurta,Men Fashion,Trousers,UrbanWeave,S0106,1528.75,2016
+P00685,Moisturizing Face Cream,Beauty,Makeup,PrimeChoice,S0280,183.04,242
+P00686,Face Wash,Beauty,Makeup,TechNova,S0223,217.7,276
+P00687,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,UrbanNest,S0279,681.91,854
+P00688,Printed Cotton Kurti,Women Fashion,Dresses,Zenvia,S0043,942.55,1357
+P00689,Long Summer Dress,Women Fashion,Tops,Trendora,S0020,665.13,860
+P00690,Bluetooth Speaker,Electronics,Computer Accessories,Zenvia,S0279,796.88,1224
+P00691,Casual Women's Top,Women Fashion,Leggings,UrbanNest,S0074,220.79,361
+P00692,Cotton Trousers,Men Fashion,Jeans,Trendora,S0134,1030.35,1647
+P00693,Georgette Saree,Women Fashion,Sarees,PrimeChoice,S0032,572.65,1007
+P00694,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,HomeAura,S0279,1507.45,2622
+P00695,Georgette Saree,Women Fashion,Kurtis,TechNova,S0045,1245.42,2167
+P00696,Floral Anarkali Kurti,Women Fashion,Sarees,Zenvia,S0159,416.75,599
+P00697,Regular Fit Jeans,Men Fashion,Jeans,GlowNest,S0267,186.56,316
+P00698,Printed Cotton Kurti,Women Fashion,Tops,TechNova,S0274,400.61,687
+P00699,Vitamin C Face Serum,Beauty,Haircare,DailyEase,S0039,893.94,1141
+P00700,Regular Fit Jeans,Men Fashion,Trousers,NovaCart,S0195,1533.4,2388
+P00701,Microfiber Cleaning Set,Home & Kitchen,Cookware,Zenvia,S0041,299.98,492
+P00702,Microfiber Cleaning Set,Home & Kitchen,Home Decor,UrbanNest,S0195,467.22,654
+P00703,Fast Charging Cable,Electronics,Smart Devices,StyleMint,S0061,1628.13,2292
+P00704,Matte Liquid Lipstick,Beauty,Makeup,Vistara Living,S0172,976.82,1603
+P00705,Herbal Shampoo,Beauty,Makeup,HomeAura,S0095,981.45,1371
+P00706,Casual Women's Top,Women Fashion,Dresses,Trendora,S0173,931.37,1236
+P00707,Face Wash,Beauty,Skincare,Zenvia,S0039,856.89,1166
+P00708,Printed T-Shirt,Men Fashion,Jeans,PrimeChoice,S0034,1672.81,2291
+P00709,Microfiber Cleaning Set,Home & Kitchen,Home Decor,HomeAura,S0184,1831.56,2352
+P00710,Microfiber Cleaning Set,Home & Kitchen,Home Decor,Zenvia,S0114,2015.78,2534
+P00711,Printed Cotton Kurti,Women Fashion,Tops,UrbanWeave,S0179,1049.13,1594
+P00712,Decorative Wall Clock,Home & Kitchen,Cookware,Trendora,S0152,1258.33,1690
+P00713,Men's Casual Kurta,Men Fashion,Trousers,HomeAura,S0200,432.88,652
+P00714,Regular Fit Jeans,Men Fashion,Jeans,Zenvia,S0196,1002.76,1802
+P00715,Stainless Steel Bottle,Home & Kitchen,Kitchen Storage,UrbanNest,S0141,213.46,374
+P00716,Regular Fit Jeans,Men Fashion,Shirts,Trendora,S0216,1697.58,2384
+P00717,Face Wash,Beauty,Makeup,Zenvia,S0053,791.54,1197
+P00718,Embroidered Saree,Women Fashion ,Dresses,UrbanNest,S0140,1690.9,2416
+P00719,Microfiber Cleaning Set,Home & Kitchen,Cookware,Trendora,S0209,427.74,775
+P00720,Men's Casual Kurta,Men Fashion,Kurtas,Trendora,S0083,437.64,754
+P00721,Cotton Trousers,Men Fashion,T-Shirts,Trendora,S0285,538.7,905
+P00722,Hair Repair Oil,Beauty,Makeup,GlowNest,S0080,478.78,717
+P00723,Cotton Trousers,Men Fashion,Jeans,Zenvia,S0017,1900.24,2719
+P00724,Matte Liquid Lipstick,Beauty,Makeup,TechNova,S0138,1207.09,1636
+P00725,Fast Charging Cable,Electronics,Audio,PrimeChoice,S0053,2552.26,3304
+P00726,Georgette Saree,Women Fashion,Sarees,Vistara Living,S0161,242.08,320
+P00727,Vitamin C Face Serum,Beauty,Personal Care,DailyEase,S0272,360.39,486
+P00728,Regular Fit Jeans,Men Fashion,Shirts,TechNova,S0185,859.27,1483
+P00729,Smart LED Bulb,Electronics,Audio,Trendora,S0015,2760.29,4053
+P00730,Wireless Bluetooth Earbuds,Electronics,Audio,DailyEase,S0053,342.77,443
+P00731,Vitamin C Face Serum,Beauty,Haircare,Trendora,S0171,436.08,766
+P00732,Mobile Phone Stand,Electronics ,Audio,HomeAura,S0285,1492.75,2400
+P00733,Stainless Steel Bottle,Home & Kitchen,Home Decor,Trendora,S0019,1615.09,2774
+P00734,Long Summer Dress,Women Fashion,Leggings,Zenvia,S0115,1933.64,2474
+P00735,Decorative Wall Clock,Home & Kitchen,Cookware,UrbanWeave,S0287,1779.16,2237
+P00736,Embroidered Saree,Women Fashion,Sarees,UrbanWeave,S0060,1730.29,2485
+P00737,Slim Fit Cotton Shirt,Men Fashion,Shirts,NovaCart,S0228,2077.02,2840
+P00738,Cotton Trousers,Men Fashion,Trousers,GlowNest,S0170,1470.48,2657
+P00739,Herbal Shampoo,Beauty,Haircare,NovaCart,S0293,1128.5,1755
+P00740,Cotton Leggings,Women Fashion,Leggings,HomeAura,S0001,798.31,1338
+P00741,Smart LED Bulb,Electronics,Computer Accessories,Trendora,S0184,468.82,649
+P00742,Wireless Bluetooth Earbuds,Electronics,Computer Accessories,HomeAura,S0025,1892.11,3339
+P00743,Herbal Shampoo,Beauty,Personal Care,StyleMint,S0140,389.97,641
+P00744,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,HomeAura,S0228,1154.03,1833
+P00745,Embroidered Saree,Women Fashion,Sarees,Zenvia,S0283,1414.22,2493
+P00746,Slim Fit Cotton Shirt,Men Fashion,Jeans,Vistara Living,S0144,1609.86,2900
+P00747,Microfiber Cleaning Set,Home & Kitchen,Cleaning,NovaCart,S0204,1601.16,2713
+P00748,Herbal Shampoo,Beauty,Haircare,StyleMint,S0093,1315.94,1733
+P00749,Georgette Saree,Women Fashion,Leggings,NovaCart,S0073,581.42,953
+P00750,Printed T-Shirt,Men Fashion,T-Shirts,NovaCart,S0017,1321.21,2397
+P00751,Long Summer Dress,Women Fashion,Dresses,StyleMint,S0170,448.27,715
+P00752,Cotton Trousers,Men Fashion,Trousers,StyleMint,S0174,468.24,741
+P00753,Microfiber Cleaning Set,Home & Kitchen,Home Decor,DailyEase,S0256,204.15,316
+P00754,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,Zenvia,S0232,789.17,1335
+P00755,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,UrbanWeave,S0174,1752.44,2990
+P00756,Wireless Mouse,Electronics,Smart Devices,StyleMint,S0043,1357.25,1734
+P00757,Smart LED Bulb,Electronics,Mobile Accessories,Zenvia,S0144,2073.32,3418
+P00758,Regular Fit Jeans,Men Fashion,Kurtas,TechNova,S0047,1135.29,1905
+P00759,Regular Fit Jeans,Men Fashion,Shirts,Trendora,S0072,1188.82,1509
+P00760,Printed Cotton Kurti,Women Fashion,Tops,UrbanNest,S0091,1243.43,1867
+P00761,Hair Repair Oil,Beauty,Skincare,DailyEase,S0196,394.46,509
+P00762,Men's Casual Shirt,Men Fashion,Trousers,StyleMint,S0065,1162.82,1921
+P00763,Printed Cotton Kurti,Women Fashion,Sarees,Zenvia,S0257,796.21,1143
+P00764,Matte Liquid Lipstick,Beauty,Haircare,UrbanNest,S0215,309.77,527
+P00765,Wireless Bluetooth Earbuds,Electronics,Audio,Vistara Living,S0125,3031.51,4971
+P00766,Herbal Shampoo,Beauty,Skincare,Zenvia,S0032,931.12,1386
+P00767,Floral Anarkali Kurti,Women Fashion,Kurtis,Trendora,S0193,1050.8,1598
+P00768,Regular Fit Jeans,Men Fashion,Jeans,GlowNest,S0033,1050.53,1449
+P00769,Hair Repair Oil,Beauty,Haircare,DailyEase,S0231,430.58,782
+P00770,Fast Charging Cable,Electronics,Mobile Accessories,PrimeChoice,S0177,156.6,252
+P00771,Men's Casual Kurta,Men Fashion,T-Shirts,UrbanWeave,S0198,717.95,1258
+P00772,Microfiber Cleaning Set,Home & Kitchen,Cleaning,NovaCart,S0193,315.58,508
+P00773,Non Stick Cookware Set,Home & Kitchen,Home Decor,DailyEase,S0061,1115.83,2017
+P00774,Vitamin C Face Serum,Beauty,Haircare,UrbanNest,S0054,1080.68,1536
+P00775,Cotton Cushion Cover Set,Home & Kitchen,Cleaning,Zenvia,S0175,1398.97,1922
+P00776,Face Wash,Beauty ,Skincare,UrbanNest,S0215,792.48,1113
+P00777,Cotton Trousers,Men Fashion,Shirts,TechNova,S0165,656.78,954
+P00778,Bluetooth Speaker,Electronics,Audio,Trendora,S0031,641.39,856
+P00779,Men's Casual Shirt,Men Fashion,T-Shirts,UrbanWeave,S0281,495.49,765
+P00780,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,Vistara Living,S0219,2099.98,2776
+P00781,Vitamin C Face Serum,Beauty,Skincare,UrbanNest,S0249,274.62,458
+P00782,Smart LED Bulb,Electronics,Smart Devices,HomeAura,S0071,863.78,1521
+P00783,Mobile Phone Stand,Electronics,Smart Devices,TechNova,S0113,2855.21,4448
+P00784,Georgette Saree,Women Fashion ,Kurtis,Zenvia,S0099,576.69,822
+P00785,Long Summer Dress,Women Fashion,Kurtis,Vistara Living,S0173,796.73,1201
+P00786,Fast Charging Cable,Electronics,Mobile Accessories,HomeAura,S0133,510.32,848
+P00787,Herbal Shampoo,Beauty,Personal Care,GlowNest,S0246,844.85,1403
+P00788,Herbal Shampoo,Beauty,Makeup,HomeAura,S0255,1031.28,1498
+P00789,Moisturizing Face Cream,Beauty,Makeup,Trendora,S0269,1194.91,1983
+P00790,Printed Cotton Kurti,Women Fashion,Kurtis,HomeAura,S0016,949.08,1324
+P00791,Face Wash,Beauty,Skincare,HomeAura,S0095,664.44,1025
+P00792,Decorative Wall Clock,Home & Kitchen,Cookware,Trendora,S0250,344.88,459
+P00793,Moisturizing Face Cream,Beauty,Haircare,TechNova,S0128,474.34,600
+P00794,Moisturizing Face Cream,Beauty,Personal Care,HomeAura,S0241,1090.6,1687
+P00795,Hair Repair Oil,Beauty,Personal Care,Trendora,S0082,522.88,750
+P00796,Face Wash,Beauty,Haircare,NovaCart,S0012,682.61,901
+P00797,Decorative Wall Clock,Home & Kitchen,Cookware,Trendora,S0297,175.3,222
+P00798,Wireless Mouse,Electronics,Computer Accessories,UrbanNest,S0171,2314.87,3387
+P00799,Regular Fit Jeans,Men Fashion,Shirts,PrimeChoice,S0214,601.94,816
+P00800,Microfiber Cleaning Set,Home & Kitchen,Cookware,DailyEase,S0012,842.22,1146
+P00801,Decorative Wall Clock,Home & Kitchen,Cookware,Trendora,S0038,998.14,1302
+P00802,Wireless Mouse,Electronics,Audio,Zenvia,S0191,2937.49,3829
+P00803,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,GlowNest,S0237,1157.55,1497
+P00804,Georgette Saree,Women Fashion,Tops,Trendora,S0238,1620.09,2217
+P00805,Hair Repair Oil,Beauty,Makeup,TechNova,S0027,539.77,745
+P00806,Floral Anarkali Kurti,Women Fashion,Sarees,TechNova,S0150,1381.7,2368
+P00807,Fast Charging Cable,Electronics,Mobile Accessories,PrimeChoice,S0080,1209.95,1830
+P00808,Long Summer Dress,Women Fashion,Leggings,TechNova,S0203,819.8,1303
+P00809,Kitchen Storage Container Set,Home & Kitchen,Cleaning,UrbanWeave,S0113,1089.5,1818
+P00810,Regular Fit Jeans,Men Fashion,Kurtas,Trendora,S0035,617.22,1120
+P00811,Men's Casual Shirt,Men Fashion,Shirts,Trendora,S0138,1507.77,2420
+P00812,Microfiber Cleaning Set,Home & Kitchen,Home Decor,HomeAura,S0109,620.38,1032
+P00813,Kitchen Storage Container Set,Home & Kitchen,Cleaning,DailyEase,S0277,1351.8,2285
+P00814,Stainless Steel Bottle,Home & Kitchen,Cleaning,HomeAura,S0106,1606.91,2812
+P00815,Long Summer Dress,Women Fashion,Tops,HomeAura,S0147,867.24,1236
+P00816,Wireless Bluetooth Earbuds,Electronics ,Mobile Accessories,NovaCart,S0215,3866.24,4855
+P00817,Wireless Bluetooth Earbuds,Electronics,Audio,UrbanNest,S0190,1047.88,1787
+P00818,Wireless Mouse,Electronics,Mobile Accessories,UrbanNest,S0001,496.83,657
+P00819,Georgette Saree,Women Fashion,Tops,GlowNest,S0177,1040.53,1802
+P00820,Printed Cotton Kurti,Women Fashion,Leggings,DailyEase,S0261,855.68,1086
+P00821,Georgette Saree,Women Fashion,Tops,NovaCart,S0032,270.22,478
+P00822,Printed T-Shirt,Men Fashion,Shirts,StyleMint,S0261,1266.63,1960
+P00823,Cotton Leggings,Women Fashion,Sarees,NovaCart,S0053,927.08,1551
+P00824,Bluetooth Speaker,Electronics,Mobile Accessories,GlowNest,S0181,1854.01,2790
+P00825,Printed Cotton Kurti,Women Fashion,Sarees,GlowNest,S0207,142.79,248
+P00826,Moisturizing Face Cream,Beauty,Personal Care,GlowNest,S0231,615.03,1065
+P00827,Matte Liquid Lipstick,Beauty,Makeup,UrbanWeave,S0237,779.66,1394
+P00828,Casual Women's Top,Women Fashion,Dresses,TechNova,S0105,1705.96,2358
+P00829,Printed Cotton Kurti,Women Fashion,Dresses,HomeAura,S0200,407.96,636
+P00830,Wireless Bluetooth Earbuds,Electronics,Computer Accessories,HomeAura,S0241,654.81,946
+P00831,Microfiber Cleaning Set,Home & Kitchen,Home Decor,Trendora,S0102,1401.55,2334
+P00832,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,StyleMint,S0015,269.32,369
+P00833,Wireless Mouse,Electronics,Mobile Accessories,UrbanNest,S0277,1106.24,1802
+P00834,Bluetooth Speaker,Electronics,Smart Devices,GlowNest,S0077,1932.94,2929
+P00835,Moisturizing Face Cream,Beauty,Skincare,UrbanWeave,S0297,509.19,639
+P00836,Wireless Mouse,Electronics,Mobile Accessories,UrbanNest,S0073,1004.75,1553
+P00837,Decorative Wall Clock,Home & Kitchen,Cleaning,GlowNest,S0170,1396.46,2490
+P00838,Herbal Shampoo,Beauty,Personal Care,Zenvia,S0107,853.12,1271
+P00839,Slim Fit Cotton Shirt,Men Fashion,Shirts,TechNova,S0081,1530.94,2410
+P00840,Regular Fit Jeans,Men Fashion,Trousers,NovaCart,S0114,1438.15,2060
+P00841,Face Wash,Beauty,Makeup,Trendora,S0032,683.5,908
+P00842,Hair Repair Oil,Beauty,Skincare,UrbanNest,S0219,713.55,908
+P00843,Cotton Trousers,Men Fashion,Shirts,GlowNest,S0004,1669.06,2212
+P00844,Fast Charging Cable,Electronics,Computer Accessories,GlowNest,S0115,222.85,314
+P00845,Regular Fit Jeans,Men Fashion,Trousers,UrbanNest,S0060,1474.01,2220
+P00846,Fast Charging Cable,Electronics,Smart Devices,UrbanWeave,S0247,1665.88,2862
+P00847,Fast Charging Cable,Electronics,Computer Accessories,Zenvia,S0032,191.48,257
+P00848,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,PrimeChoice,S0073,279.88,498
+P00849,Vitamin C Face Serum,Beauty,Skincare,Vistara Living,S0251,541.24,753
+P00850,Long Summer Dress,Women Fashion,Tops,TechNova,S0229,1660.82,2179
+P00851,Cotton Leggings,Women Fashion ,Leggings,DailyEase,S0297,1526.59,1948
+P00852,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,StyleMint,S0223,1231.56,1693
+P00853,Cotton Cushion Cover Set,Home & Kitchen,Cleaning,GlowNest,S0194,1163.13,1864
+P00854,Printed T-Shirt,Men Fashion,T-Shirts,Trendora,S0188,768.98,1388
+P00855,Slim Fit Cotton Shirt,Men Fashion,Jeans,Vistara Living,S0187,1335.88,1854
+P00856,Stainless Steel Bottle,Home & Kitchen,Cookware,DailyEase,S0046,549.8,945
+P00857,Floral Anarkali Kurti,Women Fashion,Tops,PrimeChoice,S0186,168.16,253
+P00858,Face Wash,Beauty,Personal Care,StyleMint,S0059,424.0,647
+P00859,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,Zenvia,S0050,864.1,1545
+P00860,Long Summer Dress,Women Fashion,Dresses,GlowNest,S0016,536.25,819
+P00861,Embroidered Saree,Women Fashion,Sarees,UrbanWeave,S0107,1122.84,1627
+P00862,Moisturizing Face Cream,Beauty,Personal Care,Vistara Living,S0285,911.57,1373
+P00863,Printed T-Shirt,Men Fashion,Jeans,StyleMint,S0106,1605.38,2378
+P00864,Microfiber Cleaning Set,Home & Kitchen,Kitchen Storage,HomeAura,S0293,556.18,964
+P00865,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,HomeAura,S0259,1082.62,1773
+P00866,Stainless Steel Bottle,Home & Kitchen,Home Decor,Vistara Living,S0012,890.14,1182
+P00867,Long Summer Dress,Women Fashion,Dresses,HomeAura,S0209,578.56,767
+P00868,Hair Repair Oil,Beauty,Skincare,StyleMint,S0276,275.51,439
+P00869,Face Wash,Beauty,Skincare,Zenvia,S0149,838.7,1169
+P00870,Long Summer Dress,Women Fashion,Kurtis,UrbanWeave,S0201,431.39,777
+P00871,Georgette Saree,Women Fashion,Kurtis,UrbanNest,S0164,1302.85,1743
+P00872,Smart LED Bulb,Electronics,Audio,TechNova,S0074,1870.39,3017
+P00873,Long Summer Dress,Women Fashion,Dresses,Vistara Living,S0102,754.38,1030
+P00874,Face Wash,Beauty,Personal Care,Zenvia,S0103,382.69,593
+P00875,Printed Cotton Kurti,Women Fashion,Kurtis,DailyEase,S0270,246.16,353
+P00876,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,PrimeChoice,S0059,3158.16,4779
+P00877,Cotton Leggings,Women Fashion,Tops,GlowNest,S0089,1881.3,2376
+P00878,Men's Casual Kurta,Men Fashion,Jeans,DailyEase,S0279,815.21,1440
+P00879,Men's Casual Kurta,Men Fashion,Kurtas,Zenvia,S0118,356.94,506
+P00880,Face Wash,Beauty,Skincare,Vistara Living,S0046,691.58,1057
+P00881,Non Stick Cookware Set,Home & Kitchen,Cleaning,GlowNest,S0013,1858.03,2385
+P00882,Floral Anarkali Kurti,Women Fashion,Sarees,DailyEase,S0179,1330.04,1956
+P00883,Face Wash,Beauty,Personal Care,StyleMint,S0002,500.29,674
+P00884,Men's Casual Shirt,Men Fashion,Shirts,Vistara Living,S0281,355.31,447
+P00885,Cotton Trousers,Men Fashion,Shirts,DailyEase,S0104,1396.47,2071
+P00886,Non Stick Cookware Set,Home & Kitchen,Home Decor,PrimeChoice,S0064,404.0,586
+P00887,Face Wash,Beauty,Skincare,HomeAura,S0243,710.72,1013
+P00888,Face Wash,Beauty,Makeup,HomeAura,S0249,235.15,361
+P00889,Microfiber Cleaning Set,Home & Kitchen,Kitchen Storage,UrbanWeave,S0065,1491.38,2227
+P00890,Bluetooth Speaker,Electronics,Mobile Accessories,UrbanWeave,S0270,1436.66,2183
+P00891,Matte Liquid Lipstick,Beauty,Makeup,TechNova,S0083,1171.16,1641
+P00892,Microfiber Cleaning Set,Home & Kitchen,Cookware,HomeAura,S0222,506.02,849
+P00893,Microfiber Cleaning Set,Home & Kitchen,Kitchen Storage,UrbanNest,S0204,659.24,996
+P00894,Non Stick Cookware Set,Home & Kitchen,Home Decor,DailyEase,S0276,664.2,966
+P00895,Georgette Saree,Women Fashion,Dresses,GlowNest,S0290,894.25,1189
+P00896,Georgette Saree,Women Fashion,Sarees,TechNova,S0246,1126.88,1597
+P00897,Printed T-Shirt,Men Fashion,Trousers,NovaCart,S0195,2101.63,2769
+P00898,Cotton Leggings,Women Fashion,Leggings,PrimeChoice,S0190,753.14,968
+P00899,Wireless Mouse,Electronics,Audio,UrbanNest,S0149,381.94,489
+P00900,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,Vistara Living,S0299,1038.93,1549
+P00901,Fast Charging Cable,Electronics,Audio,UrbanNest,S0180,2404.84,3136
+P00902,Wireless Bluetooth Earbuds,Electronics,Computer Accessories,GlowNest,S0158,900.29,1184
+P00903,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,Zenvia,S0023,1835.64,2867
+P00904,Wireless Mouse,Electronics,Mobile Accessories,GlowNest,S0093,1717.14,2458
+P00905,Decorative Wall Clock,Home & Kitchen,Cleaning,UrbanWeave,S0026,1876.12,2818
+P00906,Slim Fit Cotton Shirt,Men Fashion,Shirts,UrbanNest,S0064,1625.81,2714
+P00907,Men's Casual Kurta,Men Fashion ,Jeans,HomeAura,S0260,199.78,353
+P00908,Georgette Saree,Women Fashion,Dresses,HomeAura,S0012,622.92,899
+P00909,Fast Charging Cable,Electronics,Smart Devices,HomeAura,S0097,1023.36,1733
+P00910,Wireless Bluetooth Earbuds,Electronics,Mobile Accessories,Zenvia,S0087,2682.63,4843
+P00911,Long Summer Dress,Women Fashion,Dresses,NovaCart,S0070,554.95,1000
+P00912,Men's Casual Kurta,Men Fashion,Trousers,TechNova,S0294,1188.74,2033
+P00913,Herbal Shampoo,Beauty,Skincare,Zenvia,S0148,1300.11,1772
+P00914,Face Wash,Beauty,Personal Care,NovaCart,S0142,253.32,337
+P00915,Cotton Cushion Cover Set,Home & Kitchen,Home Decor,NovaCart,S0254,2215.61,2977
+P00916,Casual Women's Top,Women Fashion,Dresses,UrbanWeave,S0186,1657.39,2218
+P00917,Moisturizing Face Cream,Beauty,Haircare,NovaCart,S0034,366.32,597
+P00918,Microfiber Cleaning Set,Home & Kitchen,Cleaning,StyleMint,S0215,1714.73,2396
+P00919,Mobile Phone Stand,Electronics,Mobile Accessories,GlowNest,S0152,1651.75,2441
+P00920,Men's Casual Kurta,Men Fashion,Jeans,HomeAura,S0082,1996.1,2539
+P00921,Cotton Cushion Cover Set,Home & Kitchen,Cookware,StyleMint,S0266,1365.71,1803
+P00922,Men's Casual Shirt,Men Fashion,T-Shirts,TechNova,S0269,1460.66,2186
+P00923,Casual Women's Top,Women Fashion,Leggings,DailyEase,S0210,848.58,1389
+P00924,Mobile Phone Stand,Electronics,Mobile Accessories,DailyEase,S0221,1444.82,2311
+P00925,Moisturizing Face Cream,Beauty,Makeup,StyleMint,S0157,145.94,197
+P00926,Long Summer Dress,Women Fashion,Tops,NovaCart,S0273,229.96,329
+P00927,Non Stick Cookware Set,Home & Kitchen,Cleaning,NovaCart,S0101,130.57,232
+P00928,Slim Fit Cotton Shirt,Men Fashion,Kurtas,TechNova,S0240,1472.04,2622
+P00929,Slim Fit Cotton Shirt,Men Fashion,Trousers,UrbanWeave,S0177,1707.5,2716
+P00930,Casual Women's Top,Women Fashion,Sarees,StyleMint,S0071,178.81,316
+P00931,Wireless Bluetooth Earbuds,Electronics,Smart Devices,PrimeChoice,S0068,1763.34,3151
+P00932,Georgette Saree,Women Fashion,Tops,UrbanNest,S0288,209.34,293
+P00933,Moisturizing Face Cream,Beauty,Skincare,TechNova,S0072,472.73,613
+P00934,Mobile Phone Stand,Electronics,Smart Devices,DailyEase,S0252,1627.86,2153
+P00935,Matte Liquid Lipstick,Beauty,Skincare,UrbanNest,S0052,1301.55,1782
+P00936,Men's Casual Kurta,Men Fashion,T-Shirts,Trendora,S0141,1209.69,1743
+P00937,Non Stick Cookware Set,Home & Kitchen,Home Decor,GlowNest,S0077,1573.43,2086
+P00938,Non Stick Cookware Set,Home & Kitchen,Cleaning,GlowNest,S0027,1865.98,2934
+P00939,Vitamin C Face Serum,Beauty,Personal Care,StyleMint,S0180,736.27,1231
+P00940,Matte Liquid Lipstick,Beauty,Haircare,Zenvia,S0221,481.43,680
+P00941,Smart LED Bulb,Electronics,Audio,TechNova,S0041,1356.75,2150
+P00942,Moisturizing Face Cream,Beauty,Haircare,PrimeChoice,S0113,583.03,789
+P00943,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,UrbanNest,S0279,504.03,754
+P00944,Non Stick Cookware Set,Home & Kitchen,Cleaning,UrbanNest,S0198,800.61,1212
+P00945,Men's Casual Kurta,Men Fashion,Shirts,HomeAura,S0192,1211.42,1599
+P00946,Printed T-Shirt,Men Fashion,Trousers,Zenvia,S0218,423.72,714
+P00947,Smart LED Bulb,Electronics,Smart Devices,HomeAura,S0227,826.23,1219
+P00948,Cotton Trousers,Men Fashion,Shirts,DailyEase,S0218,2227.5,2844
+P00949,Cotton Trousers,Men Fashion,Shirts,DailyEase,S0121,1260.52,2066
+P00950,Wireless Bluetooth Earbuds,Electronics,Smart Devices,NovaCart,S0031,2811.48,3819
+P00951,Face Wash,Beauty,Makeup,Trendora,S0277,601.75,824
+P00952,Regular Fit Jeans,Men Fashion,Trousers,Trendora,S0052,885.3,1231
+P00953,Slim Fit Cotton Shirt,Men Fashion,Jeans,Zenvia,S0272,1929.57,2474
+P00954,Matte Liquid Lipstick,Beauty,Haircare,Zenvia,S0078,931.29,1495
+P00955,Cotton Trousers,Men Fashion,Jeans,Zenvia,S0188,839.39,1291
+P00956,Slim Fit Cotton Shirt,Men Fashion,Kurtas,Trendora,S0131,733.07,1271
+P00957,Decorative Wall Clock,Home & Kitchen,Home Decor,DailyEase,S0095,1293.81,2007
+P00958,Wireless Bluetooth Earbuds,Electronics,Audio,PrimeChoice,S0013,1845.92,2962
+P00959,Vitamin C Face Serum,Beauty,Haircare,UrbanWeave,S0104,1132.26,1982
+P00960,Herbal Shampoo,Beauty,Skincare,UrbanNest,S0116,1377.26,1957
+P00961,Long Summer Dress,Women Fashion,Sarees,StyleMint,S0055,1462.59,2180
+P00962,Floral Anarkali Kurti,Women Fashion,Dresses,DailyEase,S0240,525.84,668
+P00963,Printed T-Shirt,Men Fashion,Trousers,Trendora,S0110,436.91,562
+P00964,Bluetooth Speaker,Electronics,Audio,PrimeChoice,S0043,1014.19,1406
+P00965,Embroidered Saree,Women Fashion,Leggings,Trendora,S0080,856.95,1135
+P00966,Casual Women's Top,Women Fashion,Leggings,StyleMint,S0039,783.67,1207
+P00967,Stainless Steel Bottle,Home & Kitchen,Cookware,UrbanNest,S0248,1373.57,2085
+P00968,Floral Anarkali Kurti,Women Fashion,Tops,Zenvia,S0250,1659.57,2303
+P00969,Decorative Wall Clock,Home & Kitchen,Home Decor,StyleMint,S0042,1937.04,2635
+P00970,Printed T-Shirt,Men Fashion,Shirts,Trendora,S0006,894.45,1421
+P00971,Cotton Leggings,Women Fashion,Sarees,Vistara Living,S0267,1282.89,1744
+P00972,Smart LED Bulb,Electronics,Computer Accessories,UrbanWeave,S0159,408.26,529
+P00973,Vitamin C Face Serum,Beauty,Makeup,TechNova,S0205,859.29,1366
+P00974,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,Zenvia,S0140,2126.34,2855
+P00975,Wireless Mouse,Electronics,Mobile Accessories,UrbanWeave,S0236,2590.59,3592
+P00976,Face Wash,Beauty,Haircare,Vistara Living,S0075,197.71,289
+P00977,Kitchen Storage Container Set,Home & Kitchen,Kitchen Storage,UrbanWeave,S0282,392.26,508
+P00978,Slim Fit Cotton Shirt,Men Fashion,Trousers,UrbanNest,S0161,332.77,592
+P00979,Printed T-Shirt,Men Fashion,T-Shirts,NovaCart,S0280,1037.39,1836
+P00980,Men's Casual Shirt,Men Fashion,T-Shirts,Trendora,S0281,427.35,702
+P00981,Vitamin C Face Serum,Beauty,Skincare,UrbanWeave,S0101,158.2,213
+P00982,Casual Women's Top,Women Fashion,Dresses,Vistara Living,S0211,508.72,696
+P00983,Non Stick Cookware Set,Home & Kitchen,Kitchen Storage,UrbanWeave,S0045,1659.2,2400
+P00984,Stainless Steel Bottle,Home & Kitchen,Cookware,PrimeChoice,S0239,1230.0,1757
+P00985,Mobile Phone Stand,Electronics,Smart Devices,Zenvia,S0095,2780.2,4231
+P00986,Georgette Saree,Women Fashion,Kurtis,Zenvia,S0052,415.67,729
+P00987,Cotton Cushion Cover Set,Home & Kitchen,Kitchen Storage,GlowNest,S0138,438.51,666
+P00988,Face Wash,Beauty,Makeup,UrbanNest,S0165,1040.64,1523
+P00989,Regular Fit Jeans,Men Fashion,T-Shirts,UrbanNest,S0042,221.74,325
+P00990,Smart LED Bulb,Electronics,Audio,StyleMint,S0156,1812.62,2418
+P00991,Herbal Shampoo,Beauty,Haircare,StyleMint,S0203,928.06,1389
+P00992,Matte Liquid Lipstick,Beauty,Personal Care,TechNova,S0220,821.4,1377
+P00993,Embroidered Saree,Women Fashion,Sarees,PrimeChoice,S0060,1486.25,2026
+P00994,Fast Charging Cable,Electronics ,Computer Accessories,HomeAura,S0182,2278.83,3735
+P00995,Long Summer Dress,Women Fashion,Sarees,TechNova,S0196,1366.82,1844
+P00996,Wireless Bluetooth Earbuds,Electronics ,Mobile Accessories,TechNova,S0107,2113.57,3298
+P00997,Casual Women's Top,Women Fashion,Sarees,Zenvia,S0147,1571.88,2348
+P00998,Slim Fit Cotton Shirt,Men Fashion,T-Shirts,UrbanWeave,S0148,2332.43,2983
+P00999,Decorative Wall Clock,Home & Kitchen,Kitchen Storage,Trendora,S0196,1057.56,1416
+P01000,Non Stick Cookware Set,Home & Kitchen,Cleaning,UrbanNest,S0057,601.38,1093
