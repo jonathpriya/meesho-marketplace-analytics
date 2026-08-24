@@ -358,7 +358,7 @@ Meesho-Marketplace-Analytics/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/jonathpriya/meesho-marketplace-analytics.git
 ```
 
 ### 2. Set Up the MySQL Database
@@ -447,10 +447,11 @@ It provides a comprehensive view of products, customers, sellers, orders, delive
 
 ## Author
 
-**Dharshini Priya**
-**B.Tech – Artificial Intelligence and Data Science**
-AF05252039
-ANP-D3676 Data And Business Analyst with AI
+**Dharshini Priya L**  
+**B.Tech – Artificial Intelligence and Data Science**  
+**AF ID:** AF05252039  
+**Course:** ANP-D3676 – Data and Business Analyst with AI  
+**Training Organization:** Anudip Foundation
 
 ### Skills Used
 
